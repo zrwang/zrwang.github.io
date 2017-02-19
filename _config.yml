@@ -7,10 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Zerui Wang
-tagline:          'Happy coding and happy blogging.'
+tagline:          'Happy coding, happy blogging.'
 description:      'Start here,<br>make a difference.'
 url:              http://www.wangzerui.com
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Zerui Wang'
@@ -22,8 +22,8 @@ gems: [jekyll-paginate]
 
 # custom vars
 google_analytics: UA-63207330-1
-emailme:	  mailto:zerui.j.wang@gmail.com
+emailme:	        mailto:zerui.j.wang@gmail.com
 github:
   repo:           https://github.com/zrwang/zrwang.github.io/
-version:	  Feb.16.2017
+version:	        Feb.16.2017
 
