@@ -10,7 +10,7 @@ title:            Zerui Wang
 tagline:          'Happy coding, happy blogging.'
 description:      'Start here,<br>make a difference.'
 url:              http://www.wangzerui.com
-#baseurl:          /
+baseurl:          /
 
 author:
   name:           'Zerui Wang'
