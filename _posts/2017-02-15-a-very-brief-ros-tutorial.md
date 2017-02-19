@@ -10,7 +10,8 @@ Theoretically, you can install ROS under any Debian-based Linux distributions. H
 Here is the documentation for installation of [Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) and [Jade](http://wiki.ros.org/jade/Installation/Ubuntu). You can also install the latest version, but the codes in this tutorial are only tested with **Indigo** and **Jade**.
 
 If you encounter any issues with adding the key, please use the following command:
-```Shell
+
+```shell
 wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 ```
 
@@ -19,7 +20,8 @@ Here is the documentation for [catkin_tools](https://catkin-tools.readthedocs.io
 
 ## 1. Hello World
 Open a terminal (ctrl+alt+t). Copy and paste the following codes into your terminal. Please modify the maintainer's name and email, and also the author's name and email.
-```Shell
+
+```shell
 # create catkin workspace
 cd ~
 mkdir -p catkin_ws/src
@@ -32,10 +34,12 @@ catkin create pkg --rosdistro indigo -c roscpp rospy -l BSD -m maintainer_name m
 ＃ change working directory to source folder under package folder
 cd hello_world/src
 ```
+
 Open your favorite editor (e.g.,. Emacs) to edit the package.xml and CMakeLists.txt files if you did something wrong when you created the package, or you want to add more information.
 
 Create **hello_world_node.cpp** file with following contents.
-```C++
+
+```cpp
 // Include the ROS C++ APIs
 #include <ros/ros.h>
 
@@ -55,10 +59,12 @@ int main(int argc, char** argv) {
   return 0;
 }
 ```
+
 Modify corresponding parts in the package.xml and CMakeLists.txt so that the catkin tools can help you to compile the executables correctly.
 
 You can specify additional locations of header files, declare C++ executables and anything else you want to control in the **Build** part of the **CMakeLists.txt** file. For example, in this example, we only need to declare one C++ executable named hello_world_node and link the catkin library to the executable.
-```CMake
+
+```cmake
 ###########
 ## Build ##
 ###########
@@ -92,10 +98,12 @@ target_link_libraries(hello_world_node
   ${catkin_LIBRARIES}
 )
 ```
+
 It is not necessary to modify anything in the package.xml in this example. However, if you have multiple packages and some of the packages have sort of dependents on the other packages, you can modify the package.xml file to tell the catkin tools the dependent relationship of all the packages.
 
 You should have a similar architecture tree as follows.
-```Shell
+
+```shell
 my_catkin_ws/
 └── src
     └── hello_world
@@ -108,7 +116,8 @@ my_catkin_ws/
 ``` 
 
 Now you are ready to compile the ROS package by catkin tools using the following command.
-```Shell
+
+```shell
 # add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
 source /opt/ros/indigo/setup.bash
 # build the package
@@ -116,7 +125,8 @@ catkin build hello_world
 ```
 
 After compiling the package, you can launch the ROS node. Please do remember to start a the **roscore** before executing the node.
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # run the node (executable)
@@ -124,18 +134,21 @@ rosrun hello_world hello_world_node
 ```
 
 By running the node, you should be able to observe the following results in your terminal.
-```Shell
+
+```shell
 [ INFO] [1475573239.386991148]: Hello, world!
 ```
 
 ## 2. Turtlesim
 Install some dependents.
-```Shell
+
+```shell
 sudo apt-get install qt5-default
 ```
 
 Clone the package from GitHub.
-```Shell
+
+```shell
 # change directory to the package src folder
 cd ~/catkin_ws/src
 # clone the repository from github, and copy the specific package to the package source directory
@@ -146,7 +159,8 @@ rm -rf ros_tutorials
 ```
 
 Build the package.
-```Shell
+
+```shell
 # add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
 source /opt/ros/indigo/setup.bash
 # build the package
@@ -156,7 +170,8 @@ catkin build turtlesim
 Open three terminals, and add catkin workspace environment variables to each of them.
 
 Terminal 1:
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # launch roscore
@@ -164,7 +179,8 @@ roscore
 ```
 
 Terminal 2:
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # run graphic turtle simulator node
@@ -172,7 +188,8 @@ rosrun turtlesim turtlesim_node
 ```
 
 Terminal 3:
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # run teleoperation keyboard node
@@ -182,7 +199,8 @@ rosrun turtlesim turtle_teleop_key
 Enjoy playing with the lovely little turtle.
 
 Using the following tools can help you to have a better understanding of the topology of the running ROS nodes.
-```Shell
+
+```shell
 rosnode [ping|list|info]
 rostopic [echo|pub|hz|info|list|type]
 rosrun rqt_graph rqt_graph
@@ -190,12 +208,14 @@ rosrun rqt_graph rqt_graph
 
 ## 3. Video Pipeline
 Install some dependents
-```Shell
+
+```shell
 sudo apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
 ```
 
 Clone the package from GitHub.
-```Shell
+
+```shell
 # add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
 source /opt/ros/indigo/setup.bash
 # clone packages from github
@@ -207,7 +227,8 @@ catkin build hauppauge
 ```
 
 Launch the video pipeline.
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # launch video pipeline
@@ -215,7 +236,8 @@ roslaunch hauppauge mono.launch
 ```
 
 You can observe what this launch file does by using **rqt_image_view** package in another terminal console.
-```Shell
+
+```shell
 # add catkin workspace environment variables to your current bash session
 source ~/catkin_ws/devel/setup.bash
 # run rqt_image_view
