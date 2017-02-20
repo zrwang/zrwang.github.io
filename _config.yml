@@ -22,8 +22,14 @@ gems: [jekyll-paginate]
 
 # custom vars
 google_analytics: UA-63207330-1
-emailme:	        mailto:zerui.j.wang@gmail.com
+emailme:          mailto:zerui.j.wang@gmail.com
 github:
   repo:           https://github.com/zrwang/zrwang.github.io/
-version:	        Feb.16.2017
+version:          Feb.16.2017
+github_username:  zrwang
+facebook_username: zrwang.cuhk
+linkedin_username: zrwang
+twitter_username: wangzerui
+# google_plus_username: 
+# instagram_username: wzr.mavericker
 

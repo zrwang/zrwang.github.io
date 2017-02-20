@@ -31,12 +31,37 @@
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
       <!-- social buttons -->
-      <a href="https://github.com/zrwang" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
-      <a href="https://www.facebook.com/zrwang.cuhk" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-      <a href="https://hk.linkedin.com/in/zrwang" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-      <a href="https://plus.google.com/u/0/115306810481973645007/posts" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-      <a href="https://twitter.com/wangzerui" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-      <a href="https://www.instagram.com/wzr.mavericker" target="_blank" class="btn-social btn-outline"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+      {% if site.github_username %}
+      <a href="https://github.com/{{site.github_username}}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-fw fa-github"></i>
+      </a>
+      {% endif %}
+      {% if site.facebook_username %}
+      <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-fw fa-facebook"></i>
+      </a>
+      {% endif %}
+      {% if site.linkedin_username %}
+      <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-fw fa-linkedin"></i>
+      </a>
+      {% endif %}
+      {% if site.google_plus_username %}
+      <a href="https://plus.google.com/{{ site.google_plus_username }}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-fw fa-google-plus"></i>
+      </a>
+      {% endif %}
+      {% if site.twitter_username %}
+      <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-fw fa-twitter"></i>
+      </a>
+      {% endif %}
+      {% if site.instagram_username %}
+      <a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank" class="btn-social btn-outline">
+	<i class="fa fa-instagram" aria-hidden="true"></i>
+      </a>
+      {% endif %}
+      <!-- last updated -->
       <span class="sidebar-nav-item">Last updated on: {{ site.version }}</span>
     </nav>
 
