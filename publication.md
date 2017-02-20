@@ -10,7 +10,7 @@ title: Publication
 
 * H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu, *"Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy: Design, Modeling and Experimental Validation,"* International Journal of Robotics Research, 2017. **Under review**
 
-* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters, 2017. **Accepted**[@Video](https://youtu.be/XdtcIpcR46k)
+* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters, 2017. **Accepted** [@Video](https://youtu.be/XdtcIpcR46k)
 
 * D. Navarro-Alarcon, H.M. Yip, **Z. Wang**, Y.-H. Liu, F. Zhong, T. Zhang and P. Li, *"Automatic 3D Manipulation of Soft Objects by Robotic Arms with Adaptive Deformation Model,"* IEEE Transactions on Robotics, vol. 32, no. 2, pp. 429 - 441, Apr. 2016. [@Paper](/public/doc/tro_2016_david.pdf)
 

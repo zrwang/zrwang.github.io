@@ -245,3 +245,11 @@ rosrun rqt_image_view rqt_image_view
 ```
 
 Here is a very useful [tutorial](https://github.com/jhu-dvrk/dvrk-ros/blob/feature-ecm/dvrk_robot/video.md) by [Anton Deguet](https://github.com/adeguet1) about streaming video from an endoscope.
+
+# Acknowledgments
+
+I got the C++ code of the first example (Hello World) from this elegant [tutorial](http://jbohren.com/articles/roscpp-hello-world/) by [Jonathan Bohren](http://jbohren.com/).
+
+I borrowed the idea of the second example (Turtlesim) from ROS official [tutorial](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics).
+
+The hauppauge ROS package in the third example (Video Pipeline) is created by [Simon Leonard](http://www.cs.jhu.edu/~sleonard/)
