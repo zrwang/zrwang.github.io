@@ -4,10 +4,10 @@ title: A Very Brief ROS Tutorial
 ---
 
 ## 0.0 Installing Debian-based Linux distributions like Ubuntu.
-Theoretically, you can install ROS under any Debian-based Linux distributions. However, this tutorial is tested under [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/).
+Theoretically, you can install ROS under any Debian-based Linux distributions. However, this tutorial is tested under [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/){:target="_blank"}.
 
 ## 0.1 Installing ROS
-Here is the documentation for installation of [Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) and [Jade](http://wiki.ros.org/jade/Installation/Ubuntu). You can also install the latest version, but the codes in this tutorial are only tested with **Indigo** and **Jade**.
+Here is the documentation for installation of [Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) and [Jade](http://wiki.ros.org/jade/Installation/Ubuntu){:target="_blank"}. You can also install the latest version, but the codes in this tutorial are only tested with **Indigo** and **Jade**.
 
 If you encounter any issues with adding the key, please use the following command:
 
@@ -16,7 +16,7 @@ wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo 
 ```
 
 ## 0.1 Installing Catkin Command Line Tools
-Here is the documentation for [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html).
+Here is the documentation for [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html){:target="_blank"}.
 
 ## 1. Hello World
 Open a terminal (ctrl+alt+t). Copy and paste the following codes into your terminal. Please modify the maintainer's name and email, and also the author's name and email.
@@ -244,12 +244,12 @@ source ~/catkin_ws/devel/setup.bash
 rosrun rqt_image_view rqt_image_view
 ```
 
-Here is a very useful [tutorial](https://github.com/jhu-dvrk/dvrk-ros/blob/feature-ecm/dvrk_robot/video.md) by [Anton Deguet](https://github.com/adeguet1) about streaming video from an endoscope.
+Here is a very useful [tutorial](https://github.com/jhu-dvrk/dvrk-ros/blob/feature-ecm/dvrk_robot/video.md){:target="_blank"} by [Anton Deguet](https://github.com/adeguet1){:target="_blank"} about streaming video from an endoscope.
 
 # Acknowledgments
 
-I got the C++ code of the first example (Hello World) from this elegant [tutorial](http://jbohren.com/articles/roscpp-hello-world/) by [Jonathan Bohren](http://jbohren.com/).
+I got the C++ code of the first example (Hello World) from this elegant [tutorial](http://jbohren.com/articles/roscpp-hello-world/){:target="_blank"} by [Jonathan Bohren](http://jbohren.com/){:target="_blank"}.
 
-I borrowed the idea of the second example (Turtlesim) from ROS official [tutorial](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics).
+I borrowed the idea of the second example (Turtlesim) from ROS official [tutorial](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics){:target="_blank"}.
 
-The hauppauge ROS package in the third example (Video Pipeline) is created by [Simon Leonard](http://www.cs.jhu.edu/~sleonard/)
+The hauppauge ROS package in the third example (Video Pipeline) is created by [Simon Leonard](http://www.cs.jhu.edu/~sleonard/){:target="_blank"}
