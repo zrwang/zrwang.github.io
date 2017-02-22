@@ -253,3 +253,5 @@ I got the C++ code of the first example (Hello World) from this elegant [tutoria
 I borrowed the idea of the second example (Turtlesim) from ROS official [tutorial](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics){:target="_blank"}.
 
 The hauppauge ROS package in the third example (Video Pipeline) is created by [Simon Leonard](http://www.cs.jhu.edu/~sleonard/){:target="_blank"}
+
+Thanks for reading!
