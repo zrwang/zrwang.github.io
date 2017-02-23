@@ -16,7 +16,7 @@ AucTex can be easily installed by using the Emacs package manager.
 ```
 M-x list-packages RET
 ```
-Mark the AucTex package for installation with 'i', and execute the installation by hitting 'x'. If you encounter any issue during the previous step, please check your configuration for the [package manager](https://www.emacswiki.org/emacs/ELPA) in your [init file](https://www.emacswiki.org/emacs/InitFile#init_file).
+Mark the AucTex package for installation with `i`, and execute the installation by hitting `x`. If you encounter any issue during the previous step, please check your configuration for the [package manager](https://www.emacswiki.org/emacs/ELPA) in your [init file](https://www.emacswiki.org/emacs/InitFile#init_file).
 
 Since we are using latexmkrc file to control the compilation of the source LaTex document into the final typeset PDF file, we have to install another package called auctex-latexmk, which adds latexmk support to AucTex package.
 
@@ -64,9 +64,19 @@ Once you finish installing the packages mentioned above, you are ready to config
 Create a `~/.latexmkrc` with the following configuration.
 
 ```
-$pdf_previewer = 'open -a skim';
-$pdflatex = 'pdflatex -interaction=nonstopmode -synctex=1 %O %S';
-$clean_ext = 'bbl rel %R-blx.bib %R.synctex.gz';
+#
+# Generel
+#
+
+# Needed for the dot2texi package which invokes GraphViz.
+$latex = 'latex --shell-escape';
+$pdflatex = 'pdflatex --shell-escape';
+
+# 
+# Mac OS
+#
+$pdf_previewer = "open -a Skim";
+$clean_ext = "paux lox pdfsync out";
 ```
 
 ## Configure your PDF viewer
