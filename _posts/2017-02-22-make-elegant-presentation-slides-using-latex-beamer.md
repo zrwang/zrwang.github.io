@@ -3,7 +3,7 @@ layout: post
 title: Making Elegant Presentation Slides Using LaTex Beamer
 ---
 
-This post demonstrates how to make elegant presentation slides using LaTex with Beamer package. If you are an Emacs user and haven't read my previous posts about how to set up a nice LaTex working environment with Emacs on [MacOS](/2017/02/21/setting-up-a-nice-environment-for-latex-on-macos/) and [Ubuntu](/2017/02/22/setting-up-a-nice-environment-for-latex-on-ubuntu/), please have a look at it and I am pretty sure you're gonna love it.
+This post demonstrates how to make elegant presentation slides using LaTex with Beamer package. If you are an Emacs user and haven't read my previous posts about how to set up a nice LaTex working environment with Emacs on [MacOS](/2017/02/20/setting-up-a-nice-environment-for-latex-on-macos/) and [Ubuntu](/2017/02/21/setting-up-a-nice-environment-for-latex-on-ubuntu/), please have a look at it and I am pretty sure you're gonna love it.
 
 ## What's Beamer
 [Beamer](https://www.ctan.org/pkg/beamer?lang=en) is a LaTeX document class for creating slides for presentations. With Beamer, it's going to be much easier for us to create presentation slides using LaTex. Next, let me show you how to make elegant slides from scratch.
