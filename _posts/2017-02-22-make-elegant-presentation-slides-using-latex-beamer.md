@@ -6,7 +6,7 @@ title: Making Elegant Presentation Slides Using LaTex Beamer
 This post demonstrates how to make elegant presentation slides using LaTex with Beamer package. If you are an Emacs user and haven't read my previous posts about how to set up a nice LaTex working environment with Emacs on [MacOS](/2017/02/21/setting-up-a-nice-environment-for-latex-on-macos/) and [Ubuntu](/2017/02/22/setting-up-a-nice-environment-for-latex-on-ubuntu/), please have a look at it and I am pretty sure you're gonna love it.
 
 ## What's Beamer
-[Beamer](https://www.ctan.org/pkg/beamer?lang=en) is a LaTeX document class for creating slides for presentations. With Beamer, it's going to be much easier for us to create presentation slides using LaTex. Next, let me show you how to make elegant slides. 
+[Beamer](https://www.ctan.org/pkg/beamer?lang=en) is a LaTeX document class for creating slides for presentations. With Beamer, it's going to be much easier for us to create presentation slides using LaTex. Next, let me show you how to make elegant slides from scratch.
 
 ## Create a LaTex Project
 Fire a terminal and execute the following commands.
@@ -19,7 +19,7 @@ mkdir bib
 touch main.tex
 ```
 
-In this example project, we create a folder `example` with two sub-folders `pdf` and `bib` in it. `pdf` contains all the figures you are including in the slides (we use pdf format for all the figures), and `bib` stores bibliography related files. Put the logo figures in the `pdf` sub-folder. You should have a similar file tree as follows.
+In this example project, we create a folder `example` with two sub-folders `pdf` and `bib` in it. `pdf` contains all the figures you are including in the slides (we use pdf format for all the figures), and `bib` stores bibliography related files. The main source file `main.tex` is created in the root directory. Put the logo figures in the `pdf` sub-folder, and you should have a similar file tree as follows.
 
 ```bash
 example/
@@ -125,7 +125,7 @@ Compile the project and you will see a PDF file with the following pages.
 
 The second page is empty because we haven't defined any sections or subsections. So let's add more slides.
 
-Including two more useful packages `subfig` and `bm`, and adding more slides as follows.
+Include two more useful packages `subfig` and `bm`, and add more slides by copying the `presentation slides code` at the end of previous code block.
 
 ```latex
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -179,7 +179,7 @@ Including two more useful packages `subfig` and `bm`, and adding more slides as 
   \end{align}
 \end{frame}
 ```
-After compilation, you can obtain the following elegant slides.
+After compilation, you can obtain some elegant slides as follows.
 
 <p class="full-width">
 <img src="/public/image/2017-02-22/example_2_1.png" width="70%" align="right"/>
