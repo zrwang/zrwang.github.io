@@ -108,6 +108,10 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.full-width {
+  float: right;
+  width: 100%;
+}
 
 strong {
   color: #303030;
