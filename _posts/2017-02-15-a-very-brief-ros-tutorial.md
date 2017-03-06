@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Very Brief ROS Tutorial
+description: This is a brief tutorial showing you how to properly install and use ROS. The tutorial has three examples, which cover the most basic stuffs as well as working principles and philolophies.
 ---
 
 ## 0.0 Installing Debian-based Linux distributions like Ubuntu.

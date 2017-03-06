@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making Elegant Presentation Slides Using LaTex Beamer
+description: This post demonstrates how to make elegant presentation slides using LaTex with Beamer package.
 ---
 
 This post demonstrates how to make elegant presentation slides using LaTex with Beamer package. If you are an Emacs user and haven't read my previous posts about how to set up a nice LaTex working environment with Emacs on [MacOS](/2017/02/20/setting-up-a-nice-environment-for-latex-on-macos/) and [Ubuntu](/2017/02/21/setting-up-a-nice-environment-for-latex-on-ubuntu/), please have a look at it and I am pretty sure you're gonna love it.
@@ -93,7 +94,7 @@ Title
 % Table of contents slide, comment this block out to remove it
 \begin{frame}
   \frametitle{Table of Contents}
-  \fontsize{12}{10}\usefont{OT1}{phv}{bc}{n}\selectfont
+  \fontsize{12}{10}
   \tableofcontents
 \end{frame}
 
@@ -101,7 +102,7 @@ Title
 \AtBeginSection[]{
   \begin{frame}
     \frametitle{Table of Contents}
-    \fontsize{12}{10}\usefont{OT1}{phv}{bc}{n}\selectfont
+    \fontsize{12}{10}
     \tableofcontents[
     currentsection,
     sectionstyle=show/shaded,

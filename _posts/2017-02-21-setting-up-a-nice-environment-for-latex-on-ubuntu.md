@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting Up a Nice Environment for LaTex on Ubuntu
+description: This post demonstrates how to configure a nice LaTex working environment with Emacs on Ubuntu.
 ---
 
 This post is similar with the previous [one](/2017/02/21/setting-up-a-nice-environment-for-latex-on-macos/) for MacOS, and this one demonstrates how to configure a nice LaTex working environment with Emacs on Ubuntu.

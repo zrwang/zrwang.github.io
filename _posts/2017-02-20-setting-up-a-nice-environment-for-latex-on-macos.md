@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting Up a Nice Environment for LaTex on MacOS
+description: This post demonstrates how to configure a nice LaTex working environment with Emacs on MacOS.
 ---
 
 This post demonstrates how to configure a nice LaTex working environment with Emacs on MacOS.
