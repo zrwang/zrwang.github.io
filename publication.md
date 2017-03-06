@@ -4,17 +4,17 @@ title: Publication
 ---
 
 ## Journal
-* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters, 2017. **Under review**
+* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017. **Under review**
 
-* F. Zhong, J. Shi, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, J. Mei, H.M. Yip, and C. Sui, *"Development of An RCM Endoscope Manipulator for Robot-Assisted FESS: Performance and Control,"* IEEE Robotics and Automation Letters, 2017. **Under review**
+* F. Zhong, J. Shi, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, J. Mei, H.M. Yip, and C. Sui, *"Development of An RCM Endoscope Manipulator for Robot-Assisted FESS: Performance and Control,"* IEEE Robotics and Automation Letters (RA-L), 2017. **Under review**
 
-* H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu, *"Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy: Design, Modeling and Experimental Validation,"* International Journal of Robotics Research, 2017. **Under review**
+* H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu, *"Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy: Design, Modeling and Experimental Validation,"* International Journal of Robotics Research (IJRR), 2017. **Under review**
 
-* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters, 2017. [@Paper](/public/doc/ral_2016.pdf){:target="_blank"} [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
+* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), 2017. [@Paper](/public/doc/ral_2016.pdf){:target="_blank"} [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
 
-* D. Navarro-Alarcon, H.M. Yip, **Z. Wang**, Y.-H. Liu, F. Zhong, T. Zhang and P. Li, *"Automatic 3D Manipulation of Soft Objects by Robotic Arms with Adaptive Deformation Model,"* IEEE Transactions on Robotics, vol. 32, no. 2, pp. 429 - 441, Apr. 2016. [@Paper](/public/doc/tro_2016_david.pdf){:target="_blank"} [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/TRO_2015.mp4){:target="_blank"}
+* D. Navarro-Alarcon, H.M. Yip, **Z. Wang**, Y.-H. Liu, F. Zhong, T. Zhang and P. Li, *"Automatic 3D Manipulation of Soft Objects by Robotic Arms with Adaptive Deformation Model,"* IEEE Transactions on Robotics (T-RO), vol. 32, no. 2, pp. 429 - 441, Apr. 2016. [@Paper](/public/doc/tro_2016_david.pdf){:target="_blank"} [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/TRO_2015.mp4){:target="_blank"}
 
-* **Z. Wang**, H.M. Yip, D. Navarro-Alarcon, P. Li, Y.-H. Liu, D. Sun, H. Wang, and T.H. Cheung, *"Design of a Novel Compliant Safe Robot Joint with Multiple Working States,"* IEEE/ASME Transactions on Mechatronics, vol. 21, no. 2, pp. 1193-1198, Apr. 2016. [@Paper](/public/doc/tmech_2016.pdf){:target="_blank"} [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
+* **Z. Wang**, H.M. Yip, D. Navarro-Alarcon, P. Li, Y.-H. Liu, D. Sun, H. Wang, and T.H. Cheung, *"Design of a Novel Compliant Safe Robot Joint with Multiple Working States,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 21, no. 2, pp. 1193-1198, Apr. 2016. [@Paper](/public/doc/tmech_2016.pdf){:target="_blank"} [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
 * F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016. [@Paper](/public/doc/iros_2016_billy.pdf){:target="_blank"} [@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}
