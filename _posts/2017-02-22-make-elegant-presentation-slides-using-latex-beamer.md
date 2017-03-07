@@ -12,7 +12,7 @@ This post demonstrates how to make elegant presentation slides using LaTex with 
 ## Create a LaTex Project
 Fire a terminal and execute the following commands.
 
-```bash
+```shell
 cd ~
 mkdir -p example/pdf
 cd example
@@ -22,7 +22,7 @@ touch main.tex
 
 In this example project, we create a folder `example` with two sub-folders `pdf` and `bib` in it. `pdf` contains all the figures you are including in the slides (we use pdf format for all the figures), and `bib` stores bibliography related files. The main source file `main.tex` is created in the root directory. Put the logo figures in the `pdf` sub-folder, and you should have a similar file tree as follows.
 
-```bash
+```shell
 example/
 ├── bib
 ├── main.tex
