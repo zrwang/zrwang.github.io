@@ -10,7 +10,7 @@ title: Publication
 
 * H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu, *"Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy: Design, Modeling and Experimental Validation,"* International Journal of Robotics Research (IJRR), 2017. **Under review**
 
-* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image-Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), 2017. [@Paper](/public/doc/ral_2016.pdf){:target="_blank"} [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
+* **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image-Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017. [@Paper](/public/doc/ral_2016.pdf){:target="_blank"} [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
 
 * D. Navarro-Alarcon, H.M. Yip, **Z. Wang**, Y.-H. Liu, F. Zhong, T. Zhang and P. Li, *"Automatic 3D Manipulation of Soft Objects by Robotic Arms with Adaptive Deformation Model,"* IEEE Transactions on Robotics (T-RO), vol. 32, no. 2, pp. 429 - 441, Apr. 2016. [@Paper](/public/doc/tro_2016_david.pdf){:target="_blank"} [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/TRO_2015.mp4){:target="_blank"}
 
@@ -37,4 +37,3 @@ title: Publication
 
 ## Patent
 * P. Li, **Z. Wang**, Y.-H. Liu. *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent Application, US 62/145,162, filed April 2015. Patent Pending.
-
