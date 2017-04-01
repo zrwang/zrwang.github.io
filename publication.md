@@ -17,6 +17,8 @@ title: Publication
 * **Z. Wang**, H.M. Yip, D. Navarro-Alarcon, P. Li, Y.-H. Liu, D. Sun, H. Wang, and T.H. Cheung, *"Design of a Novel Compliant Safe Robot Joint with Multiple Working States,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 21, no. 2, pp. 1193-1198, Apr. 2016. [@Paper]({{site.url}}/public/doc/tmech_2016.pdf){:target="_blank"} [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
+* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Under review**
+
 * F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016. [@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"} [@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}
 
 * D. Navarro-Alarcon, **Z. Wang**, H.M. Yip, Y.-H. Liu, F. Zhong and T. Zhang, *"Robust Image-based Computation of the 3D Position of Laparoscopic Instruments and its Application to Image-guided Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 4115–4121, 2016. [@Paper]({{site.url}}/public/doc/icra_2016_david.pdf){:target="_blank"} [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/ICRA_2016.mp4){:target="_blank"}
