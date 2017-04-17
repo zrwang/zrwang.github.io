@@ -18,7 +18,15 @@ author:
 
 paginate:         12
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, algoliasearch-jekyll]
+
+algolia:
+  application_id: 'SDET0Y4YMU'
+  index_name:     'jekyll'
+  read_only_api_key: '37e1a393be9997f4820eedbf1319bc11'
+  excluded_files:
+    - 404.html
+    - index.html
 
 # custom vars
 google_analytics: UA-63207330-1

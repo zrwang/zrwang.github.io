@@ -7,6 +7,10 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    <form class="algolia__form" action="/search/" method="GET">
+      <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search in this site..." />
+    </form>
+
     <nav class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
@@ -27,7 +31,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-	    
+
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
       <!-- social buttons -->
