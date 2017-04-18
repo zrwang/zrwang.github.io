@@ -7,29 +7,25 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-    <form class="algolia__form" action="/search/" method="GET">
-      <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search in this site..." />
-    </form>
-
     <nav class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
 
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-          {% endif %}
-        {% endif %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+        <a href="{{ node.url }}">{{ node.title }}</a>
+      </li>
+      {% endif %}
+      {% endif %}
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
@@ -37,37 +33,42 @@
       <!-- social buttons -->
       {% if site.github_username %}
       <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-fw fa-github"></i>
+        <i class="fa fa-fw fa-github"></i>
       </a>
       {% endif %}
       {% if site.facebook_username %}
       <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-fw fa-facebook"></i>
+        <i class="fa fa-fw fa-facebook"></i>
       </a>
       {% endif %}
       {% if site.linkedin_username %}
       <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-fw fa-linkedin"></i>
+        <i class="fa fa-fw fa-linkedin"></i>
       </a>
       {% endif %}
       {% if site.google_plus_username %}
       <a href="https://plus.google.com/{{ site.google_plus_username }}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-fw fa-google-plus"></i>
+        <i class="fa fa-fw fa-google-plus"></i>
       </a>
       {% endif %}
       {% if site.twitter_username %}
       <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-fw fa-twitter"></i>
+        <i class="fa fa-fw fa-twitter"></i>
       </a>
       {% endif %}
       {% if site.instagram_username %}
       <a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank" style="text-decoration:none">
-	<i class="fa fa-instagram" aria-hidden="true"></i>
+        <i class="fa fa-instagram" aria-hidden="true"></i>
       </a>
       {% endif %}
-      <!-- last updated -->
-      <span class="sidebar-nav-item">Last updated on: {{ site.version }}</span>
     </nav>
+
+    <form class="algolia__form" action="/search/" method="GET">
+      <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search in this site..." />
+    </form>
+
+    <!-- last updated -->
+    <span class="sidebar-nav-item">Last updated on: {{ site.version }}</span>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
