@@ -46,7 +46,7 @@
 
 /* Theming */
 .theme-base-08 .algolia__result-link .algolia__result-highlight {
-  background-color:#EED9D9;
+  background-color: #EED9D9;
   background-color: rgba(172,65,66,0.2);
 }
 .theme-base-09 .algolia__result-link .algolia__result-highlight {
@@ -76,4 +76,12 @@
 .theme-base-0f .algolia__result-link .algolia__result-highlight {
   background-color: #E9DDD6;
   background-color: rgba(143,85,54,0.2);
+}
+.theme-base-12 .algolia__result-link .algolia__result-highlight {
+  background-color: #A31F34;
+  background-color: rgba(163,31,52,0.2);
+}
+.theme-base-12 .algolia__result-text .algolia__result-highlight {
+  background-color: #A31F34;
+  background-color: rgba(163,31,52,0.2);
 }
