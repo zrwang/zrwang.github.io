@@ -8,6 +8,12 @@
   width: 200px;
 }
 
+@media (max-width: 48em) {
+  .algolia__input {
+    text-align:center;
+  }
+}
+
 /* Search results container */
 .algolia__initial-content {
   display:block;
