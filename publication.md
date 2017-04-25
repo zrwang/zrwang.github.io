@@ -19,7 +19,7 @@ title: Publication
 
 * F. Zhong, J. Shi, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, J. Mei, H.M. Yip, and C. Sui, *"Development of An RCM Endoscope Manipulator for Robot-Assisted FESS: Performance and Control,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Under review**
 
-* F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016. [@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"} [@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}
+* F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 2153-0866, 2016. [@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"} [@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}
 
 * D. Navarro-Alarcon, **Z. Wang**, H.M. Yip, Y.-H. Liu, F. Zhong and T. Zhang, *"Robust Image-based Computation of the 3D Position of Laparoscopic Instruments and its Application to Image-guided Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 4115–4121, 2016. [@Paper]({{site.url}}/public/doc/icra_2016_david.pdf){:target="_blank"} [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/ICRA_2016.mp4){:target="_blank"}
 
