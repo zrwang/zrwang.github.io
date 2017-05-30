@@ -12,9 +12,9 @@ I am a final-year Ph.D. student at [The Chinese University of Hong Kong](http://
 You can find the detailed information about me in my [curriculum vita](../zrwang.resume/cv.pdf){:target="_blank"}.
 
 ### Education
-* B.E. Degree, Quality and Reliability Engineering, Beihang University, China, 2009 ~ 2013
-* Ph.D. Student, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, 2013 ~ Now
-* Visting Ph.D. Student, Computer Science, Johns Hopkins University, US, 2016 ~ Now
+* B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
+* Visting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
+* Ph.D. Student, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Present
 
 ### Professional Experience
 
@@ -29,4 +29,3 @@ You can find the detailed information about me in my [curriculum vita](../zrwang
 * Assistive Surgical Robots (CRF-13)
 * Development of a Robotic System for Nasal Surgery (ITF-14)
 * Vision-based Calibration of Robot-Assisted MIS System (RGC-15)
-
