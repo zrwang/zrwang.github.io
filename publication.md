@@ -6,8 +6,6 @@ title: Publication
 ## Journal
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017. **Revised and Resubmitted**
 
-* H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu, *"Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy: Design, Modeling and Experimental Validation,"* International Journal of Robotics Research (IJRR), 2017. **Under review**
-
 * **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image-Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7867766/){:target="_blank"}{% endif %}
 [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
@@ -21,9 +19,9 @@ title: Publication
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
-* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Finalist**
+* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Accepted**
 
-* F. Zhong, J. Shi, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, J. Mei, H.M. Yip, and C. Sui, *"Development of An RCM Endoscope Manipulator for Robot-Assisted FESS: Performance and Control,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Under review**
+* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Finalist**
 
 * F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 2153-0866, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7759812/){:target="_blank"}{% endif %}
