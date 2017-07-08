@@ -21,7 +21,7 @@ title: Publication
 ## Conference
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Accepted**
 
-* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Finalist**
+* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Best Innovation Prize**
 
 * F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 2153-0866, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7759812/){:target="_blank"}{% endif %}
