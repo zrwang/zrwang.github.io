@@ -9,8 +9,7 @@ permalink:        pretty
 title:            Zerui Wang
 tagline:          'Happy coding, happy blogging.'
 description:      'Start here,<br>make a difference.'
-url:              http://www.wangzerui.com
-baseurl:          '/'
+url:              http://www.wangzerui.com/
 
 author:
   name:           'Zerui Wang'
@@ -18,26 +17,14 @@ author:
 
 paginate:         12
 
-gems: [jekyll-paginate, algoliasearch-jekyll]
-
-algolia:
-  application_id: 'SDET0Y4YMU'
-  index_name:     'jekyll'
-  read_only_api_key: '37e1a393be9997f4820eedbf1319bc11'
-  record_css_selector: 'p'
-  settings:
-    attributeForDistinct: 'text'
-    distinct: 1
-  excluded_files:
-    - 404.html
-    - index.html
+gems: [jekyll-paginate]
 
 # custom vars
 google_analytics: UA-63207330-1
 emailme:          mailto:zerui.j.wang@gmail.com
 github:
   repo:           https://github.com/zrwang/zrwang.github.io/
-version:          April.21.2017
+version:          July.27.2017
 github_username:  zrwang
 facebook_username: zrwang.cuhk
 linkedin_username: zrwang
