@@ -7,14 +7,20 @@ title: About Me
 
 <blockquote class="full-width"><p>Robotics Programmer, Researcher and Enthusiast</p></blockquote>
 
-I am a final-year Ph.D. student at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"}, working with [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"} in the [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}. Since January 2016, I have been working with [Prof. Peter kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting Ph.D. student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}. My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects. Being an awardee of the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I will try my best to make my contribution to the academic research of Hong Kong. Prior to my Ph.D studies, I received B.E. at [Beihang University](http://www.buaa.edu.cn/){:target="_blank"}, China.
+I am a Post-Doctoral Research Fellow in the [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"}, working with [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"}.
+
+Supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I received my Ph.D. degree in the [MAE](http://www.mae.cuhk.edu.hk){:target="_blank"} department at the Chinese University of Hong Kong, advised by Prof. Yun-hui Liu in July 2017.
+During the last two years of my Ph.D. study, I was working with [Prof. Peter kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
+Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://www.buaa.edu.cn/){:target="_blank"}, China.
+
+My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
 
 You can find the detailed information about me in my [curriculum vita](../zrwang.resume/cv.pdf){:target="_blank"}.
 
 ### Education
 * B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
 * Visting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
-* Ph.D. Student, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Present
+* Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
 
 ### Professional Experience
 

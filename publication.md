@@ -18,10 +18,12 @@ title: Publication
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7328739/){:target="_blank"}{% endif %}
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
+_<sup>\*</sup> denotes co-first authorship._
+
 ## Conference
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Accepted**
 
-* F. Alambeigi, **Z. Wang**, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Best Innovation Prize**
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Best Innovation Prize**
 
 * F. Zhong, D. Navarro-Alarcon, **Z. Wang**, Y.-H. Liu, T. Zhang, and H.M. Yip, *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 2153-0866, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7759812/){:target="_blank"}{% endif %}
@@ -58,5 +60,7 @@ title: Publication
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
 [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}
 
+_<sup>\*</sup> denotes co-first authorship._
+
 ## Patent
-* P. Li, **Z. Wang**, Y.-H. Liu. *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent Application, US 62/145,162, filed April 2015. Patent Pending.
+* P. Li, **Z. Wang**, Y.-H. Liu. *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent, US20160298696, 2016.
