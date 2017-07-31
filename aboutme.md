@@ -17,16 +17,16 @@ My research interests are vision-based soft object manipulation, vision-based su
 
 You can find the detailed information about me in my [curriculum vita](../zrwang.resume/cv.pdf){:target="_blank"}.
 
+### News
+* Jul. 27 2017, passed thesis defense
+* Jul. 10 2017, one paper got accepted by RA-L
+* Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
+* Jun. 15 2017, one paper got accepted by IROS
+
 ### Education
 * B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
 * Visting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
 * Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
-
-### News
-* Jul. 27 2017, passed thesis defense
-* Jul. 10 2017, paper got accepted by RA-L
-* Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
-* Jun. 15 2017, paper got accepted by IROS
 
 ### Professional Experience
 
