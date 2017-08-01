@@ -64,3 +64,4 @@ _<sup>\*</sup> denotes co-first authorship._
 
 ## Patent
 * P. Li, **Z. Wang**, Y.-H. Liu. *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent, US20160298696, 2016.
+[@patient](https://www.google.com/patents/US20160298696)
