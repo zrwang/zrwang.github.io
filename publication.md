@@ -4,7 +4,8 @@ title: Publication
 ---
 
 ## Journal
-* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017. **Accepted**
+* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
 
 * **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image-Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7867766/){:target="_blank"}{% endif %}
@@ -21,7 +22,8 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship._
 
 ## Conference
-* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. **Accepted**
+* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, M. Armand, and R. H. Taylor, *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Best Innovation Prize**
 
