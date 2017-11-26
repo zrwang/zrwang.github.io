@@ -5,16 +5,10 @@ description: This is a brief tutorial showing you how to properly install and us
 ---
 
 ## 0.0 Installing Debian-based Linux distributions like Ubuntu.
-Theoretically, you can install ROS under any Debian-based Linux distributions. However, this tutorial is tested under [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/){:target="_blank"}.
+Theoretically, you can install ROS under any Debian-based Linux distributions. However, this tutorial is tested under [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/){:target="_blank"}.
 
 ## 0.1 Installing ROS
-Here is the documentation for installation of [Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) and [Jade](http://wiki.ros.org/jade/Installation/Ubuntu){:target="_blank"}. You can also install the latest version, but the codes in this tutorial are only tested with **Indigo** and **Jade**.
-
-If you encounter any issues with adding the key, please use the following command:
-
-```shell
-wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
-```
+Here is the documentation for installation of [Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) and [Lunar](http://wiki.ros.org/lunar/Installation/Ubuntu){:target="_blank"}. The codes in this tutorial are only tested with **Kinetic**.
 
 ## 0.1 Installing Catkin Command Line Tools
 Here is the documentation for [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html){:target="_blank"}.
@@ -36,7 +30,7 @@ catkin create pkg --rosdistro indigo -c roscpp rospy -l BSD -m maintainer_name m
 cd hello_world/src
 ```
 
-Open your favorite editor (e.g.,. Emacs) to edit the package.xml and CMakeLists.txt files if you did something wrong when you created the package, or you want to add more information.
+Open your favorite editor (e.g., Emacs, Sublime Text 3) to edit the package.xml and CMakeLists.txt files if you did something wrong when you created the package, or you want to add more information.
 
 Create **hello_world_node.cpp** file with following contents.
 
@@ -119,8 +113,11 @@ my_catkin_ws/
 Now you are ready to compile the ROS package by catkin tools using the following command.
 
 ```shell
-# add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
-source /opt/ros/indigo/setup.bash
+# add ROS environment variables to your current bash session (modify kinetic to lunar if you are using lunar)
+source /opt/ros/kinetic/setup.bash
+# since the above command will be used quite frequently, we can add an alias into ~/.bashrc as follows
+# echo "alias souros='source /opt/ros/kinetic/setup.bash'" >> ~/.bashrc
+# then we can simply run "souros"
 # build the package
 catkin build hello_world
 ```
@@ -163,7 +160,7 @@ Build the package.
 
 ```shell
 # add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
-source /opt/ros/indigo/setup.bash
+source /opt/ros/kinetic/setup.bash
 # build the package
 catkin build turtlesim
 ```
@@ -218,7 +215,7 @@ Clone the package from GitHub.
 
 ```shell
 # add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
-source /opt/ros/indigo/setup.bash
+source /opt/ros/kinetic/setup.bash
 # clone packages from github
 cd ~/catkin_ws/src
 git clone https://github.com/ros-drivers/gscam.git
