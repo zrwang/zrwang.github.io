@@ -4,6 +4,8 @@ title: Publication
 ---
 
 ## Journal
+* **Z. Wang**<sup>\*</sup>, F. Alambeigi<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Autonomous Model-Less Deformable Object Manipulation in a Constrained and Disturbed Environment,"* International Journal of Robotics Research (IJRR), under review, 2017.
+
 * F. Zhong, **Z. Wang**, and Y.-H. Liu, *"Collaborative Needle Manipulation with Tissue Targeting for Execution of Autonomous Suturing in Robotic Surgery,"* IEEE Robotics and Automation Letters (RA-L), under review, 2017.
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017.
