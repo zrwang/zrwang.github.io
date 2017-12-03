@@ -25,7 +25,7 @@ cd ~/catkin_ws
 catkin init --workspace .
 # create ros package (hello_world)
 cd src
-catkin create pkg --rosdistro indigo -c roscpp rospy -l BSD -m maintainer_name maintainer_email@example.com -a author_name author_email@example.com hello_world
+catkin create pkg --rosdistro kinetic -c roscpp rospy -l BSD -m maintainer_name maintainer_email@example.com -a author_name author_email@example.com hello_world
 ＃ change working directory to source folder under package folder
 cd hello_world/src
 ```
@@ -159,7 +159,7 @@ rm -rf ros_tutorials
 Build the package.
 
 ```shell
-# add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
+# add ROS environment variables to your current bash session (modify kinetic to jade if you are using lunar)
 source /opt/ros/kinetic/setup.bash
 # build the package
 catkin build turtlesim
@@ -214,7 +214,7 @@ sudo apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
 Clone the package from GitHub.
 
 ```shell
-# add ROS environment variables to your current bash session (modify indigo to jade if you are using jade)
+# add ROS environment variables to your current bash session (modify kinetic to jade if you are using lunar)
 source /opt/ros/kinetic/setup.bash
 # clone packages from github
 cd ~/catkin_ws/src
