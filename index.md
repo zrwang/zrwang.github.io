@@ -15,7 +15,7 @@ Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://
 
 My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
 
-You can find the detailed information about me in my curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf)), and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
+You can find the detailed information about me in my curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}), and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### News
 * Jul. 27 2017, passed thesis defense
