@@ -6,9 +6,7 @@ title: Publication
 ## Journal
 * **Z. Wang**<sup>\*</sup>, F. Alambeigi<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Autonomous Model-Less Deformable Object Manipulation in a Constrained and Disturbed Environment,"* International Journal of Robotics Research (IJRR), under review, 2017.
 
-* F. Zhong, **Z. Wang**, and Y.-H. Liu, *"Collaborative Needle Manipulation with Tissue Targeting for Execution of Autonomous Suturing in Robotic Surgery,"* IEEE Robotics and Automation Letters (RA-L), under review, 2017.
-
-* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), 2017.
+* **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
 
 * **Z. Wang**, S. C. Lee, F. Zhong, D. Navarro-Alarcon, Y.-H. Liu, A. Deguet, P. Kazanzides and R. H. Taylor, *"Image-Based Trajectory Tracking of 4-DoF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
@@ -26,9 +24,6 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship._
 
 ## Conference
-* **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Adaptive Controller for Contacting and Manipulating Deformable Objects Using Uncalibrated Cameras,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2017.
-
-* C. Sui, **Z. Wang**, and Y.-H. Liu, *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2017.
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
