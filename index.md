@@ -40,4 +40,4 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
 * Assistive Surgical Robots (CRF-13)
 * Development of a Robotic System for Nasal Surgery (ITF-14)
-* Vision-based Calibration of Robot-Assisted MIS System (RGC-15)
+* Vision-based Calibration of Robot-Assisted MIS System (GRF-15)
