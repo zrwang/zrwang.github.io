@@ -8,7 +8,7 @@ title: Publication
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), revise and resubmit, 2018.
 
-* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Toward Semi-Autonomous Laparoscopic Cryoablation of Kidney Tumors Using Collaborative Model-Independent Deformable Tissue Manipulation Technique,"* Ann. Biomed. Eng., minor revision, 2017.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Toward Semi-Autonomous Laparoscopic Cryoablation of Kidney Tumors Using Collaborative Model-Independent Deformable Tissue Manipulation Technique,"* Ann. Biomed. Eng., accepted, 2017.
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
