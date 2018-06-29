@@ -32,6 +32,9 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 
 ### Professional Experience
 
+#### Teaching
+* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 175)
+
 #### Teaching Assistance
 * ENGG1100 Introduction to Engineering Design (2013~2014)
 * MAEG1010 Introduction to Robot Design (2013~2014)
