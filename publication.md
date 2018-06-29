@@ -29,11 +29,11 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship._
 
 ## Conference
-* **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), under review, 2018.
+* **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
 
-* X. Li, **Z. Wang**, and Y.-H. Liu, *"A Sequential Manipulation Scheme for Shape Control of Deformable Linear Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), under review, 2018.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
 
-* C. Sui, **Z. Wang**, and Y.-H. Liu, *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), under review, 2018.
+* C. Sui, **Z. Wang**, and Y.-H. Liu, *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
