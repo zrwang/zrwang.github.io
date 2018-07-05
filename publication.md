@@ -48,8 +48,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2016_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7487603/){:target="_blank"}{% endif %}
 [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/ICRA_2016.mp4){:target="_blank"}
 
-* Y. Lu, Y.-H. Liu, **Z. Wang** and F. Zheng, *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %}
+<!-- * Y. Lu, Y.-H. Liu, **Z. Wang** and F. Zheng, *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
 
 * H.M. Yip, **Z. Wang**, D. Navarro-Alarcon, P. Li, and Y.-H. Liu, *"A new robotic uterine positioner for laparoscopic hysterectomy with passive safety mechanisms: Design and experiments,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 3188–3194, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2015_tiffany.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7353819/){:target="_blank"}{% endif %}
