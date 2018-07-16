@@ -32,6 +32,9 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 
 ### Professional Experience
 
+#### Grant
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator)
+
 #### Teaching
 * MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 175)
 
