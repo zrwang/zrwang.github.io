@@ -18,6 +18,7 @@ My research interests are vision-based soft object manipulation, vision-based su
 You can find the detailed information about me in my curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}), and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### News
+* Jul. 17 2018, one paper got accepted by RA-L
 * Jun. 30 2018, three papers got accepted by IROS
 * Jun. 8 2018, one paper got accepted by ABME
 * Jul. 27 2017, passed thesis defense
