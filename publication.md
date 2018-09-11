@@ -10,7 +10,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 <!-- * F. Alambeigi, **Z. Wang**, R. Hegeman, Y.-H. Liu, and M. Armand, *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018. -->
 
-B. Yang, W. Chen, J. Mao, Y. Lu, **Z. Wang**, H. Wang, Y.-H. Liu, *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018.
+* B. Yang, W. Chen, J. Mao, Y. Lu, **Z. Wang**, H. Wang, Y.-H. Liu, *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018.
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), revise and resubmit, 2018.
 
