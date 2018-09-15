@@ -36,6 +36,12 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
+* C. Sui, K. He, C. Lyu, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+
+* D. Li, B. Ouyang, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *" A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+
+* L. Qian, A. Deguet, **Z. Wang**, Y.-H. Liu, and P. Kazanzides, *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+
 * **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
