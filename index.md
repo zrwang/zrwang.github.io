@@ -37,7 +37,7 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
 #### Teaching
-* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 98)
+* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 99)
 
 #### Teaching Assistance
 * ENGG1100 Introduction to Engineering Design (2013~2014)
