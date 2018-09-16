@@ -31,19 +31,34 @@
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
       <!-- social buttons -->
-      {% if site.github_username %}
-      <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
-        <i class="fab fa-github"></i>
+      {% if site.orcid_username %}
+      <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank" style="text-decoration:none">
+        <i class="ai ai-orcid-square"></i>
       </a>
       {% endif %}
-      {% if site.facebook_username %}
-      <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" style="text-decoration:none">
-        <i class="fab fa-facebook"></i>
+      {% if site.googlescholar_username %}
+      <a href="https://scholar.google.com.hk/citations?user={{ site.googlescholar_username }}=en" target="_blank" style="text-decoration:none">
+        <i class="ai ai-google-scholar-square"></i>
+      </a>
+      {% endif %}
+      {% if site.researchgate_username %}
+      <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank" style="text-decoration:none">
+        <i class="fab fa-researchgate"></i>
       </a>
       {% endif %}
       {% if site.linkedin_username %}
       <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-decoration:none">
         <i class="fab fa-linkedin"></i>
+      </a>
+      {% endif %}
+      {% if site.github_username %}
+      <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
+        <i class="fab fa-github-square"></i>
+      </a>
+      {% endif %}
+      {% if site.facebook_username %}
+      <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" style="text-decoration:none">
+        <i class="fab fa-facebook"></i>
       </a>
       {% endif %}
       {% if site.google_plus_username %}
@@ -59,11 +74,6 @@
       {% if site.instagram_username %}
       <a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank" style="text-decoration:none">
         <i class="fab fa-instagram"></i>
-      </a>
-      {% endif %}
-      {% if site.researchgate_username %}
-      <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank" style="text-decoration:none">
-        <i class="fab fa-researchgate"></i>
       </a>
       {% endif %}
     </nav>
