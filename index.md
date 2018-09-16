@@ -50,3 +50,5 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * Assistive Surgical Robots (CRF-13)
 * Development of a Robotic System for Nasal Surgery (ITF-14)
 * Vision-based Calibration of Robot-Assisted MIS System (GRF-15)
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4281-5120" href="https://orcid.org/0000-0003-4281-5120" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
