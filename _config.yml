@@ -21,18 +21,20 @@ paginate_path: "blog/page:num"
 gems: [jekyll-paginate]
 
 # custom vars
-google_analytics: UA-63207330-1
-emailme:          mailto:zerui.j.wang@gmail.com
+since:                  2015
+google_analytics:       UA-63207330-1
+emailme:                mailto:zerui.j.wang@gmail.com
 github:
-  repo:           https://github.com/zrwang/zrwang.github.io/
-version:          September.16.2018
-github_username:  zrwang
-#facebook_username: zrwang.cuhk
-linkedin_username: zrwang
-#twitter_username: wangzerui
+  repo:                 https://github.com/zrwang/zrwang.github.io/
+version:                September.16.2018
+orcid_username:         0000-0003-4281-5120
+researcherid_username:  R-3094-2018
 googlescholar_username: fWi5tx8AAAAJ&hl
-orcid_username: 0000-0003-4281-5120
-researchgate_username: Zerui_Wang
-# share_pdf: yes
-# google_plus_username:
+researchgate_username:  Zerui_Wang
+linkedin_username:      zrwang
+github_username:        zrwang
+# facebook_username: zrwang.cuhk
+# google_plus_username: 115306810481973645007
+# twitter_username: wangzerui
 # instagram_username: wzr.mavericker
+# share_pdf: yes

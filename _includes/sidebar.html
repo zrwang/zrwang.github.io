@@ -36,6 +36,11 @@
         <i class="ai ai-orcid-square"></i>
       </a>
       {% endif %}
+      {% if site.researcherid_username %}
+      <a href="https://researcherid.com/rid/{{ site.researcherid_username }}" target="_blank" style="text-decoration:none">
+        <i class="ai ai-researcherid-square"></i>
+      </a>
+      {% endif %}
       {% if site.googlescholar_username %}
       <a href="https://scholar.google.com.hk/citations?user={{ site.googlescholar_username }}=en" target="_blank" style="text-decoration:none">
         <i class="ai ai-google-scholar-square"></i>
@@ -81,6 +86,6 @@
     <!-- last updated -->
     <span class="sidebar-nav-item">Last updated on: {{ site.version }}</span>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.since }}-{{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
