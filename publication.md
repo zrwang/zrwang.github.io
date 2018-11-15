@@ -6,18 +6,16 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-* X. Li, **Z. Wang**, and Y.-H. Liu, *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2018.
 
-<!-- * F. Alambeigi, **Z. Wang**, R. Hegeman, Y.-H. Liu, and M. Armand, *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018. -->
+* B. Yang, W. Chen, J. Mao, Y. Lu, **Z. Wang**, H. Wang, Y.-H. Liu, *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2018.
 
-* B. Yang, W. Chen, J. Mao, Y. Lu, **Z. Wang**, H. Wang, Y.-H. Liu, *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), under review, 2018.
+<!-- * F. Alambeigi, **Z. Wang**, R. Hegeman, Y.-H. Liu, and M. Armand, *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2018.
 
-* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), revise and resubmit, 2018.
-
-<!-- * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 4, pp. 4140-4147, Oct. 2018.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 4, pp. 4140-4147, Oct. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
 
-* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Toward Semi-Autonomous Laparoscopic Cryoablation of Kidney Tumors Using Collaborative Model-Independent Deformable Tissue Manipulation Technique,"* Annals of Biomedical Engineering (ABME), online, 2018.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Toward Semi-Autonomous Laparoscopic Cryoablation of Kidney Tumors Using Collaborative Model-Independent Deformable Tissue Manipulation Technique,"* Annals of Biomedical Engineering (ABME), vol. 46, no. 10, pp. 1650-1662, Oct. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/abme_2018.pdf){:target="_blank"}{% else %}[@Paper](https://rdcu.be/01un){:target="_blank"}{% endif %} -->
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
@@ -36,17 +34,19 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
+* X. Li, **Z. Wang**, and Y.-H. Liu, *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+
 * C. Sui, K. He, C. Lyu, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * D. Li, B. Ouyang, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *" A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * L. Qian, A. Deguet, **Z. Wang**, Y.-H. Liu, and P. Kazanzides, *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
-* **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
+* **Z. Wang**, X. Li, D. Navarro-Alarcon, and Y.-H. Liu, *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 
-* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
+* F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 
-* C. Sui, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), accepted, 2018.
+* C. Sui, **Z. Wang**<sup>&dagger;</sup>, and Y.-H. Liu, *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
