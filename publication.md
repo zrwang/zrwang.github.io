@@ -10,13 +10,13 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 * B. Yang, W. Chen, J. Mao, Y. Lu, **Z. Wang**, H. Wang, Y.-H. Liu, *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2018.
 
-<!-- * F. Alambeigi, **Z. Wang**, R. Hegeman, Y.-H. Liu, and M. Armand, *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2018.
+* F. Alambeigi, **Z. Wang**, R. Hegeman, Y.-H. Liu, and M. Armand, *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2018.
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, R. Hegeman, Y.-H. Liu, and M. Armand, *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 4, pp. 4140-4147, Oct. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
 
 * F. Alambeigi<sup>\*</sup>, **Z. Wang**<sup>\*</sup>, Y.-H. Liu, R. H. Taylor, and M. Armand, *"Toward Semi-Autonomous Laparoscopic Cryoablation of Kidney Tumors Using Collaborative Model-Independent Deformable Tissue Manipulation Technique,"* Annals of Biomedical Engineering (ABME), vol. 46, no. 10, pp. 1650-1662, Oct. 2018.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/abme_2018.pdf){:target="_blank"}{% else %}[@Paper](https://rdcu.be/01un){:target="_blank"}{% endif %} -->
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/abme_2018.pdf){:target="_blank"}{% else %}[@Paper](https://rdcu.be/01un){:target="_blank"}{% endif %}
 
 * **Z. Wang**, Z. Liu, Q. Ma, A. Cheng, Y.-H. Liu, S. Kim, A. Deguet, A. Reiter, P. Kazanzides, and R.H. Taylor, *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}

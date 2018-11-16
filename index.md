@@ -25,6 +25,7 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * Jul. 10 2017, one paper got accepted by RA-L
 * Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
 * Jun. 15 2017, one paper got accepted by IROS
+* Feb. 7 2017, one paper got accepted by RA-L
 
 ### Education
 * B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
