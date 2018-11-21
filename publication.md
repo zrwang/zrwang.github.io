@@ -40,7 +40,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 * Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
-* Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *" A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+* Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
