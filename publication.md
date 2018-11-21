@@ -6,7 +6,7 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-time 3DLaparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Robotics (T-RO), under review, 2018.
+* Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-time 3DLaparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Robotics (T-RO), under review, 2018.
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), minor revision, 2018.
 
