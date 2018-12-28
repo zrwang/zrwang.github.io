@@ -12,8 +12,6 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), minor revision resubmitted, 2018.
 
-* Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Robotics and Automation Letters (RA-L), resubmitted, 2018.
-
 * Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), in press, 2018.
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 4, pp. 4140-4147, Oct. 2018.
@@ -45,6 +43,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 * Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+
+* Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * **Wang, Z.**, Li, X., Navarro-Alarcon, D., and Liu, Y.-H., *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 
