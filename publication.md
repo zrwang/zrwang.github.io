@@ -49,13 +49,13 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 * Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
-* **Wang, Z.**, Li, X., Navarro-Alarcon, D., and Liu, Y.-H., *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
+* **Wang, Z.**, Li, X., Navarro-Alarcon, D., and Liu, Y.-H., *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 472-478, 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2018_a.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8593543/){:target="_blank"}{% endif %}
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
 
-* Sui, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
+* Sui, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 1276-1282, 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2018_lapa.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8593733/){:target="_blank"}{% endif %}
 
 * **Wang, Z.**, Liu, Z., Ma, Q., Cheng, A., Liu, Y.-H., Kim, S., Deguet, A., Reiter, A., Kazanzides, P., and Taylor, R. H., *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2017.
@@ -63,7 +63,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Armand, M., and Taylor, R. H., *"Smart Autonomous Unknown Deformable Object Manipulation Using the da Vinci research Kit: from Soft Tissues to Continuum Robots Manipulation,"* Hamlyn Symposium Surgical Robot Challenge, 2017. **Best Innovation Prize**
 
-* Zhong, F., Navarro-Alarcon, D., **Wang, Z.**, Liu, Y.-H., Zhang, T., and Yip, H. M., *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 2153-0866, 2016.
+* Zhong, F., Navarro-Alarcon, D., **Wang, Z.**, Liu, Y.-H., Zhang, T., and Yip, H. M., *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints From Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 5521-5526, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7759812/){:target="_blank"}{% endif %}
 [@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}
 
