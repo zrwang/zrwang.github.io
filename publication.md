@@ -50,10 +50,13 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 * Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
 
 * **Wang, Z.**, Li, X., Navarro-Alarcon, D., and Liu, Y.-H., *"A Unified Controller for Region-reaching and Deforming of Soft Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2018_a.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8593543/){:target="_blank"}{% endif %}
 
 * Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
 
 * Sui, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2018_lapa.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8593733/){:target="_blank"}{% endif %}
 
 * **Wang, Z.**, Liu, Z., Ma, Q., Cheng, A., Liu, Y.-H., Kim, S., Deguet, A., Reiter, A., Kazanzides, P., and Taylor, R. H., *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
