@@ -22,7 +22,7 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * Jul. 17 2018, one paper got accepted by IEEE Robotics and Automation Letters
 * Jun. 30 2018, three papers got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
 * Jun. 8 2018, one paper got accepted by Annals of Biomedical Engineering
-* Mar. 1 2018, appointed as Research Assistant Professor of Mechanical and Automation at The Chinese University of Hong Kong
+* Mar. 1 2018, appointed as Research Assistant Professor of Mechanical and Automation Engineering at The Chinese University of Hong Kong
 * Jul. 27 2017, passed thesis defense
 * Jul. 10 2017, one paper got accepted by IEEE Robotics and Automation Letters
 * Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
