@@ -18,14 +18,16 @@ My research interests are vision-based soft object manipulation, vision-based su
 You can find the detailed information about me in my curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}), and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### News
-* Jul. 17 2018, one paper got accepted by RA-L
-* Jun. 30 2018, three papers got accepted by IROS
-* Jun. 8 2018, one paper got accepted by ABME
+* Dec. 13 2018, one paper got accepted by IEEE Robotics and Automation Letters
+* Jul. 17 2018, one paper got accepted by IEEE Robotics and Automation Letters
+* Jun. 30 2018, three papers got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
+* Jun. 8 2018, one paper got accepted by Annals of Biomedical Engineering
+* Mar. 1 2018, appointed as Research Assistant Professor of Mechanical and Automation at The Chinese University of Hong Kong
 * Jul. 27 2017, passed thesis defense
-* Jul. 10 2017, one paper got accepted by RA-L
+* Jul. 10 2017, one paper got accepted by IEEE Robotics and Automation Letters
 * Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
-* Jun. 15 2017, one paper got accepted by IROS
-* Feb. 7 2017, one paper got accepted by RA-L
+* Jun. 15 2017, one paper got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2017
+* Feb. 7 2017, one paper got accepted by IEEE Robotics and Automation Letters
 
 ### Education
 * B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
@@ -38,7 +40,7 @@ You can find the detailed information about me in my curriculum vita ([ENG](../z
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
 #### Teaching
-* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 99)
+* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 98)
 
 #### Teaching Assistance
 * ENGG1100 Introduction to Engineering Design (2013~2014)
