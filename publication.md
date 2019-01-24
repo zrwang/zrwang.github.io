@@ -6,13 +6,15 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-<!-- 13. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"FESS,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2019. -->
+<!-- 14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"FESS,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2019. -->
 
-<!-- 12. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018. -->
+<!-- 13. Wu, J., Chen, W., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019. -->
 
-<!-- 11. Wu, J., Chen, W., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019. -->
+12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Measurement Using Multi-step Matching,"* Optics Express (OE), under review, 2019.
 
-10. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+
+10. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018.
 
 9. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Medical Imaging (T-MI), under review, 2018.
 
