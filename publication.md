@@ -6,11 +6,7 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-<!-- 14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"FESS,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2019. -->
-
-<!-- 13. Wu, J., Chen, W., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019. -->
-
-12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Measurement Using Multi-step Matching,"* Optics Express (OE), under review, 2019.
+12. Wu, J., Chen, W., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
 11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
@@ -45,15 +41,13 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
 
 ## Conference
-18. Li, X., **Wang, Z.**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+17. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
-17. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+16. Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
-16. Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+15. Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
-15. Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
-
-14. Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review.
+14. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
 13. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Real-Time Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
@@ -103,6 +97,14 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 <!-- * Lu, Y., Liu, Y.-H., **Wang, Z.** and Zheng, F., *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
+
+<!-- 14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"FESS,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2019. -->
+
+<!-- 13. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Measurement Using Multi-step Matching,"* Optics Express (OE), under review, 2019. -->
+
+<!-- 18. Li, X., **Wang, Z.**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
+
+<!-- 14. Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
 
 ## Patent
 <!-- 2. Sui, C, Liu, Y.-H., and **Wang, Z.**, *","* U.S. Patent, 2019. -->
