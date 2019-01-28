@@ -18,7 +18,7 @@ My research interests are vision-based soft object manipulation, vision-based su
 You can find the detailed information about me in my curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}), and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### News
-* Jan. 27 2018, four papers got accepted by IEEE International Conference on Robotics and Automation 2019
+* Jan. 27 2019, four papers got accepted by IEEE International Conference on Robotics and Automation 2019
 * Dec. 13 2018, one paper got accepted by IEEE Robotics and Automation Letters
 * Jul. 17 2018, one paper got accepted by IEEE Robotics and Automation Letters
 * Jun. 30 2018, three papers got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
