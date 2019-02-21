@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="zrwang" style="width:15rem;height:15rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/profile-iros-2018.jpg" alt="zrwang" style="width:15rem;height:15rem;" align="right"/></p>
 
 <blockquote class="full-width"><p>Robotics Programmer, Researcher and Enthusiast</p></blockquote>
 

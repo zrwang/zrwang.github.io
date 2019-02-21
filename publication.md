@@ -6,7 +6,7 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-12. Wu, J., Chen, W., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+12. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
 11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
@@ -39,11 +39,12 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 1. **Wang, Z.**, Yip, H. M., Navarro-Alarcon, D., Li, P., Liu, Y.-H., Sun, D., Wang, H., and Cheung, T. H., *"Design of a novel compliant safe robot joint with multiple working states,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 21, no. 2, pp. 1193-1198, Apr. 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7328739/){:target="_blank"}{% endif %}
 [@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}
+{: reversed="reversed"}
 
 ## Conference
 17. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
-16. Li, D., Ouyang, B., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
+16. Li, D., **Wang, Z.**<sup>&dagger;</sup>, Ouyang, B., and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by a Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
 15. Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
 
@@ -94,6 +95,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 1. Yip, H. M., Li, P., Navarro-Alarcon, D., **Wang, Z.**, and Liu, Y.-H., *"A new circular-guided remote center of motion mechanism for assistive surgical robots,"* IEEE Int. Conf. Robotics and Biomimetics (ROBIO), pp. 217–222, 2014.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
 [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}
+{: reversed="reversed"}
 
 <!-- * Lu, Y., Liu, Y.-H., **Wang, Z.** and Zheng, F., *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
@@ -107,7 +109,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 <!-- 14. Yang, B., Chen, W., Mao, J., Lu, Y., **Wang, Z.**, Wang, H., Liu, Y.-H., *"Adaptive Region-based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
 
 ## Patent
-<!-- 2. Sui, C, Liu, Y.-H., and **Wang, Z.**, *","* U.S. Patent, 2019. -->
+<!-- 2. Sui, C, Liu, Y.-H., and **Wang, Z.**, *"Systems and Methods for 3D Laparoscope Surface Reconstruction,"* U.S. Non-Provisional Patent, 2019. -->
 
 1. Li, P., **Wang, Z.**, and Liu, Y.-H., *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent, US20160298696, 2016.
 [@Patent](https://www.google.com/patents/US20160298696)
+{: reversed="reversed"}
