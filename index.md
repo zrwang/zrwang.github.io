@@ -31,9 +31,9 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 * Feb. 7 2017, one paper got accepted by IEEE Robotics and Automation Letters
 
 ### Education
-* B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
-* Visiting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
 * Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
+* Visiting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
+* B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
 
 ### Professional Experience
 
@@ -44,13 +44,13 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 * MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 98)
 
 #### Teaching Assistance
-* ENGG1100 Introduction to Engineering Design (2013~2014)
-* MAEG1010 Introduction to Robot Design (2013~2014)
-* ENGG1100 Introduction to Engineering Design (2014~2015)
-* ENGG5402 Advanced Robotics (2014~2015)
+* ENGG5402 Advanced Robotics (Spring 2015)
+* ENGG1100 Introduction to Engineering Design (Fall 2014)
+* MAEG1010 Introduction to Robot Design (Spring 2014)
+* ENGG1100 Introduction to Engineering Design (Fall 2013)
 
 #### Research Assistance
-* A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
-* Assistive Surgical Robots (CRF-13)
-* Development of a Robotic System for Nasal Surgery (ITF-14)
 * Vision-based Calibration of Robot-Assisted MIS System (GRF-15)
+* Development of a Robotic System for Nasal Surgery (ITF-14)
+* Assistive Surgical Robots (CRF-13)
+* A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
