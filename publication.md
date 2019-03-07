@@ -8,11 +8,11 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 12. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Test a Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
-11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion With Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2019.
 
 10. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018.
 
-9. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Medical Imaging (T-MI), under review, 2018.
+9. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Medical Imaging (T-MI), major revision, 2018.
 
 8. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), minor revision resubmitted, 2018.
 
