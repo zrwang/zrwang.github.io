@@ -36,7 +36,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 4. **Wang, Z.**, Liu, Z., Ma, Q., Cheng, A., Liu, Y.-H., Kim, S., Deguet, A., Reiter, A., Kazanzides, P., and Taylor, R.H., *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
 
-3. **Wang, Z.**, Lee, S. C., Zhong, F., Navarro-Alarcon, D., Liu, Y.-H., Deguet, A., Kazanzides, P. and Taylor, R. H., *"Image-Based Trajectory Tracking Control of 4-DOF Laparoscopic Instruments Using a Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
+3. **Wang, Z.**, Lee, S. C., Zhong, F., Navarro-Alarcon, D., Liu, Y.-H., Deguet, A., Kazanzides, P. and Taylor, R. H., *"Image-Based Trajectory Tracking Control of 4-DOF Laparoscopic Instruments Using A Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7867766/){:target="_blank"}{% endif %}
 [@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}
 
