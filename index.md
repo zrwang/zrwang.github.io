@@ -37,6 +37,9 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 
 ### Professional Experience
 
+#### Academic Service
+* Associate Editor of 2019 IEEE/RSJ IROS
+
 #### Grant
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
