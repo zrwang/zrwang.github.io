@@ -7,13 +7,13 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 <!-- 16. Lu, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *","* IEEE Transactions on Robotics (T-RO), under review, 2019. -->
 
-<!-- 15. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive Region-Based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), under review, 2019. -->
-
-<!-- 14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2019. -->
-
-<!-- 13. Zhong, F.<sup>\*</sup>, Li, P.<sup>\*</sup>, Shi, J.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), under review, 2019. -->
+<!-- 15. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2019. -->
 
 ## Journal
+14. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive Region-Based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), under review, 2019.
+
+13. Zhong, F.<sup>\*</sup>, Li, P.<sup>\*</sup>, Shi, J.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), under review, 2019.
+
 12. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Test A Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
 
 11. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018.
@@ -22,7 +22,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 9. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), minor revision resubmitted, 2018.
 
-8. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Wang, Y., and Liu, Y.-H., *"Collaborative Needle Insertion with Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), accepted, 2019.
+8. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Collaborative Needle Insertion with Active Tissue Deformation Control,"* IEEE Robotics and Automation Letters (RA-L), accepted, 2019.
 
 7. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 2, pp. 254-261, Apr. 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_auto.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8584049){:target="_blank"}{% endif %}
