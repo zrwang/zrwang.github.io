@@ -12,11 +12,11 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 14. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive Region-Based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), under review, 2019.
 
-13. Zhong, F.<sup>\*</sup>, Li, P.<sup>\*</sup>, Shi, J.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), under review, 2019.
+13. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2019.
 
-12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2019.
+12. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018.
 
-11. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, under review, 2018.
+11. Zhong, F.<sup>\*</sup>, Li, P.<sup>\*</sup>, Shi, J.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), major revision, 2019.
 
 10. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Medical Imaging (T-MI), major revision, 2018.
 
