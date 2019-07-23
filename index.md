@@ -44,6 +44,7 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
 #### Examinership
+* MPhil. Thesis Defense entitled "Development of Portable and Convenient to Use Cable Robot System" in July 2019
 * MPhil. Thesis Defense entitled "Ray-based Interference Free Workspace Analysis and Path Planning for Cable-Driven Robots" in January 2019
 * Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
 
