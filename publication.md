@@ -5,13 +5,17 @@ title: Publication
 
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
-<!-- 3. Lu, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *","* IEEE Transactions on Robotics (T-RO), under review, 2019. -->
-
-<!-- 2. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Test A Modular Hollow Shaft Compliant Unit with Adjustable Stiffness,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019. -->
+<!-- 2. Lu, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *","* IEEE Transactions on Robotics (T-RO), under review, 2019. -->
 
 <!-- 1. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
 
+<!-- {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_2.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %} -->
+
 ## Journal
+15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019.
+
+14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+
 13. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), under review, 2019.
 
 12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revise and resubmit, 2019.
@@ -23,7 +27,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 9. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
 
 8. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion With Active Tissue Deformation for Autonomous Suturing,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 3, pp. 2669-2676, Apr. 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_1.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
 
 7. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 2, pp. 254-261, Apr. 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_auto.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8584049){:target="_blank"}{% endif %}
