@@ -9,8 +9,6 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 <!-- 1. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
 
-<!-- {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_2.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %} -->
-
 ## Journal
 15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019.
 
@@ -27,7 +25,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 9. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
 
 8. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion With Active Tissue Deformation for Autonomous Suturing,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 3, pp. 2669-2676, Apr. 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_1.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
 
 7. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 2, pp. 254-261, Apr. 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_auto.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8584049){:target="_blank"}{% endif %}
@@ -55,16 +53,24 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {: reversed="reversed"}
 
 ## Conference
+20. Sui, C., He, K., **Wang, Z.**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020.
+
+19. Kong, X., Jin, Y., Dou, Q., Wang, Z., **Wang, Z.**<sup>&dagger;</sup>, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020.
+
 18. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion With Active Tissue Deformation for Autonomous Suturing,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), to be presented, 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
 
-17. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
+17. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"3D Surface Reconstruction Using A Two-Step Stereo Matching Method Assisted with Five Projected Patterns,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 6080-6086, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2019_3d.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8794063/){:target="_blank"}{% endif %}
 
-16. Li, D., **Wang, Z.**<sup>&dagger;</sup>, Ouyang, B., and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by A Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
+16. Li, D., **Wang, Z.**<sup>&dagger;</sup>, Ouyang, B., and Liu, Y.-H., *"A Reconfigurable Variable Stiffness Manipulator by A Sliding Layer Mechanism,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 3976-3982, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2019_a.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8793571/){:target="_blank"}{% endif %}
 
-15. Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for The First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
+15. Qian, L., Deguet, A., **Wang, Z.**, Liu, Y.-H., and Kazanzides, P., *"Augmented Reality Assisted Instrument Insertion and Tool Manipulation for The First Assistant in Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 5173-5179, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2019_augm.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8794263/){:target="_blank"}{% endif %}
 
-14. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted.
+14. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable  Tissues Using Unmodelled Continuum Manipulators,"* IEEE Int. Conf. Robotics and Automation (ICRA), presented, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_auto.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8584049/){:target="_blank"}{% endif %}
 
 13. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Online Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2018.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
