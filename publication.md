@@ -12,17 +12,19 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019.
 
-14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), under review, 2019.
+14. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, minor revision submitted, 2019.
 
-13. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), under review, 2019.
+13. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2019.
 
-12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revise and resubmit, 2019.
+12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), major revision submitted, 2019.
 
-11. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, minor revision submitted, 2019.
+11. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
 
 10. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive Region-Based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), accepted, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmrb_2019_adaptive.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8884118/){:target="_blank"}{% endif %}
 
 9. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2019_foot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8825525/){:target="_blank"}{% endif %}
 
 8. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion With Active Tissue Deformation for Autonomous Suturing,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 3, pp. 2669-2676, Apr. 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
