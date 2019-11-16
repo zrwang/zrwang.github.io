@@ -20,7 +20,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 11. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
 
-10. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive Region-Based Field of View Control of Laparoscopes with RIVP-RCM Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), accepted, 2019.
+10. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive FOV Control of Laparoscopes with Programmable Composed Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), accepted, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmrb_2019_adaptive.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8884118/){:target="_blank"}{% endif %}
 
 9. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
