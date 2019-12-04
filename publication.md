@@ -5,22 +5,18 @@ title: Publication
 
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
-<!-- 2. Lu, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *","* IEEE Transactions on Robotics (T-RO), under review, 2019. -->
-
-<!-- 1. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
-
-<!-- 14. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design, Modeling and Experiments,"* International Journal of Medical Robotics and Computer Assisted Surgery, minor revision submitted, 2019. -->
-
 ## Journal
+16. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019.
+
 15. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), under review, 2019.
 
-14. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), under review, 2019.
+14. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), revised and resubmitted, 2019.
 
-13. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), revise and resubmit, 2019.
+13. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), major revision submitted, 2019.
 
-12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), major revision submitted, 2019.
+12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
 
-11. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
+11. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), accepted, 2019.
 
 10. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive FOV Control of Laparoscopes with Programmable Composed Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), accepted, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmrb_2019_adaptive.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8884118/){:target="_blank"}{% endif %}
@@ -122,6 +118,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
 [@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}
 {: reversed="reversed"}
+
+<!-- 0. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
 
 <!-- 0. Lu, Y., Liu, Y.-H., **Wang, Z.** and Zheng, F., *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
