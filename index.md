@@ -17,21 +17,6 @@ My research interests are vision-based soft object manipulation, vision-based su
 
 You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
-### News
-* Jun. 20 2019, one paper got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2019
-* Apr. 4 2019, one paper got accepted by IEEE Robotics and Automation Letters
-* Jan. 27 2019, four papers got accepted by IEEE International Conference on Robotics and Automation 2019
-* Dec. 13 2018, one paper got accepted by IEEE Robotics and Automation Letters
-* Jul. 17 2018, one paper got accepted by IEEE Robotics and Automation Letters
-* Jun. 30 2018, three papers got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
-* Jun. 8 2018, one paper got accepted by Annals of Biomedical Engineering
-* Mar. 1 2018, appointed as Research Assistant Professor of Mechanical and Automation Engineering at The Chinese University of Hong Kong
-* Jul. 27 2017, passed thesis defense
-* Jul. 10 2017, one paper got accepted by IEEE Robotics and Automation Letters
-* Jun. 28 2017, got best innovation prize for Surgical Robot Challenge 2017
-* Jun. 15 2017, one paper got accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2017
-* Feb. 7 2017, one paper got accepted by IEEE Robotics and Automation Letters
-
 ### Education
 * Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
 * Visiting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
