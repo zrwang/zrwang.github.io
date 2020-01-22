@@ -16,7 +16,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 12. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
 
-11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), accepted, 2020.
+11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), Jan. 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
 10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2019_foot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8825525/){:target="_blank"}{% endif %}
@@ -53,9 +54,10 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {: reversed="reversed"}
 
 ## Conference
-20. Sui, C., He, K., **Wang, Z.**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020.
+20. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
-19. Kong, X., Jin, Y., Dou, Q., Wang, Z., **Wang, Z.**, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020.
+19. Sui, C., He, K., **Wang, Z.**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted, 2020.
 
 18. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion with Active Tissue Deformation for Autonomous Suturing,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
@@ -125,6 +127,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
 
 <!-- 0. Li, X., **Wang, Z.**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
+
+<!-- 0. Kong, X., Jin, Y., Dou, Q., Wang, Z., **Wang, Z.**, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020. -->
 
 ## Patent
 <!-- 3. Liu, Y.-H., Tong, C.-H., Zhong, F., **Wang, Z.**, and Yip, H.-M., *"Endoscope Manipulator and Method for Controlling the Same,"* U.S. Provisional Patent, 2019-->
