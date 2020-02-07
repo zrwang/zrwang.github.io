@@ -17,7 +17,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_real.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8964441/){:target="_blank"}{% endif %}
 
-11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), Jan. 2020.
+11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 1540-1547, Apr. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
 10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
