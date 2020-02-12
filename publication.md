@@ -119,8 +119,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 1. Yip, H. M., Li, P., Navarro-Alarcon, D., **Wang, Z.**, and Liu, Y.-H., *"A New Circular-Guided Remote Center of Motion Mechanism for Assistive Surgical Robots,"* IEEE Int. Conf. Robotics and Biomimetics (ROBIO), pp. 217–222, 2014.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}
-{: reversed="reversed"}{% endif %}
+{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}{% endif %}
+{: reversed="reversed"}
 
 <!-- 0. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
 
