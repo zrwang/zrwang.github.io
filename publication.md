@@ -43,15 +43,12 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 3. **Wang, Z.**, Lee, S. C., Zhong, F., Navarro-Alarcon, D., Liu, Y.-H., Deguet, A., Kazanzides, P. and Taylor, R. H., *"Image-Based Trajectory Tracking Control of 4-DOF Laparoscopic Instruments Using A Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7867766/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](https://youtu.be/XdtcIpcR46k){:target="_blank"}{% endif %}
 
 2. Navarro-Alarcon, D., Yip, H. M., **Wang, Z.**, Liu, Y.-H., Zhong, F., Zhang, T. and Li, P., *"Automatic 3-D Manipulation of Soft Objects by Robotic Arms with An Adaptive Deformation Model,"* IEEE Transactions on Robotics (T-RO), vol. 32, no. 2, pp. 429 - 441, Apr. 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tro_2016_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7429768/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/TRO_2015.mp4){:target="_blank"}{% endif %}
 
 1. **Wang, Z.**, Yip, H. M., Navarro-Alarcon, D., Li, P., Liu, Y.-H., Sun, D., Wang, H., and Cheung, T. H., *"Design of A Novel Compliant Safe Robot Joint with Multiple Working States,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 21, no. 2, pp. 1193-1198, Apr. 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7328739/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
 ## Conference
@@ -91,35 +88,27 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 8. Zhong, F., Navarro-Alarcon, D., **Wang, Z.**, Liu, Y.-H., Zhang, T., and Yip, H. M., *"Adaptive 3D Pose Computation of Suturing Needle Using Constraints from Static Monocular Image Feedback,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 5521-5526, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2016_billy.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7759812/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](https://youtu.be/gHr99u_tZpw){:target="_blank"}{% endif %}
 
 7. Navarro-Alarcon, D., **Wang, Z.**, Yip, H. M., Liu, Y.-H., Zhong, F., and Zhang, T., *"Robust Image-Based Computation of the 3D Position of RCM Instruments and Its Application to Image-guided Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 4115–4121, 2016.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2016_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7487603/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/ICRA_2016.mp4){:target="_blank"}{% endif %}
 
 6. Yip, H. M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., and Liu, Y.-H., *"A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 3188–3194, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2015_tiffany.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7353819/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video1](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}
-[@Video2](http://www.mae.cuhk.edu.hk/~dnavarro/videos/hysterectomy_exp_2016.mp4){:target="_blank"}{% endif %}
 
 5. Navarro-Alarcon, D., Yip, H. M., **Wang, Z.**, Liu, Y.-H., Lin, W., Li, P., *"Adaptive Image-Based Positioning of RCM Mechanisms Using Angle and Distance Features,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 5403–5409, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2015_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7354141/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/IROS_2015_A.mp4){:target="_blank"}{% endif %}
 
 4. Lin, W., Navarro-Alarcon, D., Li, P., **Wang, Z.**, Yip, H. M., Liu, Y.-H., *"Modeling, Design and Control of An Endoscope Manipulator for FESS,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), pp. 811–816, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/iros_2015_wylin.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7353465/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/imu.mp4){:target="_blank"}{% endif %}
 
 3. **Wang, Z.**, Li, P., Navarro-Alarcon, D., Yip, H. M., Liu, Y.-H., Lin, W., and Li, L., *"Design and Control of A Novel Multi-State Compliant Safe Joint for Robotic Surgery,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 1023-1028, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2015.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7139302/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](https://youtu.be/s71-E0mb-iM){:target="_blank"}{% endif %}
 
 2. Navarro-Alarcon, D., **Wang, Z.**, Yip, H. M., Liu, Y.-H., Li, P., and Lin, W., *"A Method to Regulate the Torque of Flexible-Joint Manipulators with Velocity Control Inputs,"* IEEE Int. Conf. Robotics and Biomimetics (ROBIO), pp. 2437–2442, 2014.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090705/){:target="_blank"}{% endif %}
 
 1. Yip, H. M., Li, P., Navarro-Alarcon, D., **Wang, Z.**, and Liu, Y.-H., *"A New Circular-Guided Remote Center of Motion Mechanism for Assistive Surgical Robots,"* IEEE Int. Conf. Robotics and Biomimetics (ROBIO), pp. 217–222, 2014.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
-{% if site.share_video %}[@Video](http://www.mae.cuhk.edu.hk/~dnavarro/videos/uterus_manipulator_1.mp4){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
 <!-- 0. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
