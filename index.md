@@ -25,6 +25,7 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 ### Professional Experience
 
 #### Academic Service
+* Leading Editor of Frontiers in AI and Robotics Special Issue: Learning, Sensing and Control for Autonomous Manipulation of Deformable Objects [LINK](https://www.frontiersin.org/research-topics/13353/learning-sensing-and-control-for-autonomous-manipulation-of-deformable-objects)
 * Associate Editor of 2019 IEEE/RSJ IROS
 
 #### Grant
