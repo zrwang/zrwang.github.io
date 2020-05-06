@@ -6,11 +6,14 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-16. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), under review, 2020.
+17. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"*, arXiv Preprint, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/arxiv_2020_versatile.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2005.01951/){:target="_blank"}{% endif %}
+
+16. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), major revision, 2020.
 
 15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2020.
 
-14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2019.
+14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
 
 13. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2103/){:target="_blank"}{% endif %}
@@ -111,8 +114,6 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 1. Yip, H. M., Li, P., Navarro-Alarcon, D., **Wang, Z.**, and Liu, Y.-H., *"A New Circular-Guided Remote Center of Motion Mechanism for Assistive Surgical Robots,"* IEEE Int. Conf. Robotics and Biomimetics (ROBIO), pp. 217–222, 2014.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/robio_2014_tiffany.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7090333/){:target="_blank"}{% endif %}
 {: reversed="reversed"}
-
-<!-- 0. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"* International Journal of Robotics Research (IJRR), under review, 2019. -->
 
 <!-- 0. Lu, Y., Liu, Y.-H., **Wang, Z.** and Zheng, F., *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
