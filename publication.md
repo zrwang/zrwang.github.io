@@ -24,7 +24,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 1540-1547, Apr. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
-10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
+10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), vol. 67, no. 6, pp. 1530-1541, Jun. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2019_foot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8825525/){:target="_blank"}{% endif %}
 
 9. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive FOV Control of Laparoscopes with Programmable Composed Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), vol. 1, no. 4, pp. 206-217, Oct. 2019.
