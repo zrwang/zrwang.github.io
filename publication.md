@@ -15,7 +15,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2020_design.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9095357/){:target="_blank"}{% endif %}
 
 14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
-<!-- {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_active.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/XXXXXXX/){:target="_blank"}{% endif %} -->
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_active.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9093968/){:target="_blank"}{% endif %}
 
 13. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2103/){:target="_blank"}{% endif %}
