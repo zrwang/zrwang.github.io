@@ -14,19 +14,19 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2020_design.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9095357/){:target="_blank"}{% endif %}
 
-14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
+14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H.**<sup>&dagger;</sup>, *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_active.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9093968/){:target="_blank"}{% endif %}
 
 13. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), vol. 16, no. 4, pp. 1-15, e2103 Mar. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rcs.2103/){:target="_blank"}{% endif %}
 
-12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), vol. 67, no. 9, 2683-2695, Sep. 2020.
+12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H.**<sup>&dagger;</sup>, *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), vol. 67, no. 9, 2683-2695, Sep. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_real.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8964441/){:target="_blank"}{% endif %}
 
 11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 1540-1547, Apr. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
-10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), vol. 67, no. 6, pp. 1530-1541, Jun. 2020.
+10. Zhong, F., Li, P.**<sup>&dagger;</sup>, Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), vol. 67, no. 6, pp. 1530-1541, Jun. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2019_foot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8825525/){:target="_blank"}{% endif %}
 
 9. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive FOV Control of Laparoscopes with Programmable Composed Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), vol. 1, no. 4, pp. 206-217, Oct. 2019.
