@@ -6,10 +6,10 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-19. Wang, Z., Lu, B., Gao, X., Jin, Y., Wang, Z., Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., "Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement," IEEE Transactions on Medical Imaging (T-MI), under review, 2020.
+19. Wang, Z., Lu, B., Gao, X., Jin, Y., **Wang, Z.**, Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., "Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement," IEEE Transactions on Medical Imaging (T-MI), under review, 2020.
 
-18. He, K., Sui, C., Lyv, C., Wang, Z., and Liu, Y.-H., "3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System," Applied Optics (Appl. Opt.), under review, 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=402146/){:target="_blank"}{% endif %}
+18. He, K., Sui, C., Lyv, C., **Wang, Z.**, and Liu, Y.-H., "3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System," Applied Optics (Appl. Opt.), under review, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=402146){:target="_blank"}{% endif %}
 
 17. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), major revision submitted, 2020.
 
