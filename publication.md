@@ -11,7 +11,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 16. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"*, arXiv Preprint, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/arxiv_2020_versatile.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2005.01951/){:target="_blank"}{% endif %}
 
-15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2020.
+15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 4, pp. 2045-2053, Aug. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2020_design.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9095357/){:target="_blank"}{% endif %}
 
 14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
