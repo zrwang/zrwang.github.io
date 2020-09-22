@@ -8,10 +8,10 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Medical Imaging (T-MI), under review, 2020.
 
-18. He, K., Sui, C., Lyv, C., **_Wang, Z._**, and Liu, Y.-H., *"3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System,"* Applied Optics (Appl. Opt.), accepted, 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=402146){:target="_blank"}{% endif %}
+18. Li, D., **_Wang, Z._**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), minor revision submitted, 2020.
 
-17. Li, D., **_Wang, Z._**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), major revision submitted, 2020.
+17. He, K., Sui, C., Lyv, C., **_Wang, Z._**, and Liu, Y.-H., *"3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System,"* Applied Optics (Appl. Opt.), accepted, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=402146){:target="_blank"}{% endif %}
 
 16. Alambeigi, F.<sup>\*</sup>, **_Wang, Z._**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"A Versatile Data-Driven Framework for Model-Independent Control of Continuum Manipulators Interacting with Obstructed Environments with Unknown Geometry and Stiffness,"*, arXiv Preprint, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/arxiv_2020_versatile.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2005.01951/){:target="_blank"}{% endif %}
@@ -132,8 +132,8 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Patent
 <!-- 3. Liu, Y.-H., Tong, C.-H., Zhong, F., **_Wang, Z._**, and Yip, H.-M., *"Endoscope Manipulator and Method for Controlling the Same,"* U.S. Provisional Patent, 2019-->
 
-2. Sui, C, Liu, Y.-H., and **_Wang, Z._**, *"Systems and Methods for 3D Laparoscope Surface Reconstruction,"* U.S. Non-Provisional Patent, US 16/260,546, 2019.
+2. Sui, C, Liu, Y.-H., and **_Wang, Z._**, *"Systems and Methods for 3D Laparoscope Surface Reconstruction,"* U.S. Patent, US 16/260,546, 2019.
 
-1. Li, P., **_Wang, Z._**, and Liu, Y.-H., *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Non-Provisional Patent, US20160298696, 2016.
-[@Patent](https://www.google.com/patents/US20160298696)
+1. Li, P., **_Wang, Z._**, and Liu, Y.-H., *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent, US10208806B2, 2016.
+[@Patent](https://patents.google.com/patent/US10208806B2/en)
 {: reversed="reversed"}
