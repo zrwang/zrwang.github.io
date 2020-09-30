@@ -8,7 +8,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Medical Imaging (T-MI), under review, 2020.
 
-18. Li, D., **_Wang, Z._**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), minor revision submitted, 2020.
+18. Li, D., **_Wang, Z._**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), accepted, 2020.
 
 17. He, K., Sui, C., Lyv, C., **_Wang, Z._**, and Liu, Y.-H., *"3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System,"* Applied Optics (Appl. Opt.), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=402146){:target="_blank"}{% endif %}
