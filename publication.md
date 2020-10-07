@@ -130,9 +130,11 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 <!-- 0. Kong, X., Jin, Y., Dou, Q., Wang, Z., **_Wang, Z._**, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020. -->
 
 ## Patent
-<!-- 3. Liu, Y.-H., Tong, C.-H., Zhong, F., **_Wang, Z._**, and Yip, H.-M., *"Endoscope Manipulator and Method for Controlling the Same,"* U.S. Provisional Patent, 2019-->
+3. Liu, Y.-H., Tong, C.-H., Zhong, F., **_Wang, Z._**, and Yip, H.-M., *"Endoscope Manipulator and Method for Controlling the Same,"* U.S. Patent, US20200046441A1, 2019.
+[@Patent](https://patents.google.com/patent/US20200046441A1/en)
 
-2. Sui, C, Liu, Y.-H., and **_Wang, Z._**, *"Systems and Methods for 3D Laparoscope Surface Reconstruction,"* U.S. Patent, US 16/260,546, 2019.
+2. Sui, C, Liu, Y.-H., and **_Wang, Z._**, *"Systems and Methods for 3D Laparoscopic Surface Reconstruction,"* U.S. Patent, US20200242791A1,546, 2019.
+[@Patent](https://patents.google.com/patent/US20200242791A1/en)
 
 1. Li, P., **_Wang, Z._**, and Liu, Y.-H., *"Compliant Safe Joint and Manufacturing Method Thereof,"* U.S. Patent, US10208806B2, 2016.
 [@Patent](https://patents.google.com/patent/US10208806B2/en)
