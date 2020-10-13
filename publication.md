@@ -19,7 +19,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 15. Wu, J., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 4, pp. 2045-2053, Aug. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2020_design.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9095357/){:target="_blank"}{% endif %}
 
-14. Sui, C., He, K., Lyu, C., **_Wang, Z._**<sup>&dagger;</sup>, and Liu, Y.-H.<sup>&dagger;</sup>, *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), accepted, 2020.
+14. Sui, C., He, K., Lyu, C., **_Wang, Z._**<sup>&dagger;</sup>, and Liu, Y.-H.<sup>&dagger;</sup>, *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 4, pp. 2130-2144, May 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_active.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9093968/){:target="_blank"}{% endif %}
 
 13. Yip, H.M., **_Wang, Z._**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), vol. 16, no. 4, pp. 1-15, e2103 Mar. 2020.
