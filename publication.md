@@ -63,10 +63,11 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {: reversed="reversed"}
 
 ## Conference
-20. Zhong, F., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted, 2020.
+20. Zhong, F., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), presented, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
-19. Sui, C., He, K., **_Wang, Z._**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted, 2020.
+19. Sui, C., He, K., **_Wang, Z._**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 2602-2608, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2020_a_spatial.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9197462/){:target="_blank"}{% endif %}
 
 18. Zhong, F., Wang, Y., **_Wang, Z._**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion with Active Tissue Deformation for Autonomous Suturing,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
