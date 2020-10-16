@@ -8,7 +8,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 ## Journal
 19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Medical Imaging (T-MI), under review, 2020.
 
-18. Li, D., **_Wang, Z._**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), accepted, 2020.
+18. Li, D., **_Wang, Z._**, Zhou, J., and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), accepted, 2020.
 
 17. He, K., Sui, C., Lyv, C., **_Wang, Z._**, and Liu, Y.-H., *"3D Reconstruction of Objects with Occlusion and Surface Reflection Using a Dual Monocular Structured Light System,"* Applied Optics (Appl. Opt.), vol. 59, no. 29, pp. 9259-9271, Oct. 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/applopt_2020_3d.pdf){:target="_blank"}{% else %}[@Paper](https://www.osapublishing.org/ao/abstract.cfm?URI=ao-59-29-9259){:target="_blank"}{% endif %}
@@ -63,11 +63,14 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 {: reversed="reversed"}
 
 ## Conference
-20. Zhong, F., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), presented, 2020.
+21. Zhong, F., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), presented, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
-19. Sui, C., He, K., **_Wang, Z._**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 2602-2608, 2020.
+20. Sui, C., He, K., **_Wang, Z._**<sup>&dagger;</sup>, Lyu, C., Guo, H., and Liu, Y.-H., *"A Spatial-Temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects,"* IEEE Int. Conf. Robotics and Automation (ICRA), pp. 2602-2608, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/icra_2020_a_spatial.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9197462/){:target="_blank"}{% endif %}
+
+19. Li, X., **_Wang, Z._**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects,"* IEEE Int. Conf. Real-time Computing and Robotics (RCAR), pp. 840-845, 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/rcar_2019_sequential.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9044123){:target="_blank"}{% endif %}
 
 18. Zhong, F., Wang, Y., **_Wang, Z._**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion with Active Tissue Deformation for Autonomous Suturing,"* IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), presented, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
@@ -125,8 +128,6 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 <!-- 0. Lu, Y., Liu, Y.-H., **_Wang, Z._** and Zheng, F., *"Lens-free and portable quantitative phase microscope using a dual-pinhole aperture,"* IEEE Int. Symp. Optomechatronic Technologies (ISOT), pp. 04002 p1-p4, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/isot_2015_yjlu.pdf){:target="_blank"}{% else %}[@Paper](http://www.matec-conferences.org/articles/matecconf/pdf/2015/13/matecconf_isot2015_04002.pdf){:target="_blank"}{% endif %} -->
-
-<!-- 0. Li, X., **_Wang, Z._**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
 
 <!-- 0. Kong, X., Jin, Y., Dou, Q., Wang, Z., **_Wang, Z._**, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020. -->
 
