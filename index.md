@@ -29,7 +29,7 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 * Associate Editor of 2019 IEEE/RSJ IROS
 * Reviewer of Journals and Conferences:
   * IEEE Transactions on Robotics
-  * IEEE-ASME Transactions ON Mechatronics
+  * IEEE-ASME Transactions on Mechatronics
   * IEEE Robotics and Automation Letters
   * IEEE Transactions on Medical Robotics and Bionics
   * Annals of Biomedical Engineering
