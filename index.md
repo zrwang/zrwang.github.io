@@ -26,8 +26,16 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 ### Professional Experience
 
 #### Academic Service
-* Leading Editor of Frontiers in AI and Robotics Special Issue: [Learning, Sensing and Control for Autonomous Manipulation of Deformable Objects](https://www.frontiersin.org/research-topics/13353/learning-sensing-and-control-for-autonomous-manipulation-of-deformable-objects)
 * Associate Editor of 2019 IEEE/RSJ IROS
+* Reviewer of Journals and Conferences:
+  * IEEE Transactions on Robotics
+  * IEEE-ASME Transactions ON Mechatronics
+  * IEEE Robotics and Automation Letters
+  * IEEE Transactions on Medical Robotics and Bionics
+  * Annals of Biomedical Engineering
+  * Robotica
+  * IEEE International Conference on Robotics and Automation 2019, 2020
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems 2018, 2019, 2020
 
 #### Grant
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
