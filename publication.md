@@ -6,7 +6,8 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Dou, Q., Heng, P. A., and Liu, Y.-H., *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MedIA), accepted, 2021.
+19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Heng, P. A., Dou, Q., and Liu, Y.-H., *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MedIA), vol. 75, p. 102296, Nov. 2021.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/media_2022_unsupervised.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003418?dgcid=coauthor){:target="_blank"}{% endif %}
 
 18. Li, D., **_Wang, Z._**, Zhou, J., and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), Mar. 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/soro_2021_honeycomb.pdf){:target="_blank"}{% else %}[@Paper](https://www.liebertpub.com/doi/abs/10.1089/soro.2019.0188?journalCode=soro){:target="_blank"}{% endif %}
