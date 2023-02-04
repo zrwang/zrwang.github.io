@@ -7,7 +7,7 @@ title: About Me
 
 <blockquote class="full-width"><p>Roboticist, Entrepreneur, and Enthusiast</p></blockquote>
 
-I am the Co-Founder & COO of Cornerstone Robotics Limited, for which I also serve as one of the R&D Directors.
+I am the Co-Founder & CTO of Cornerstone Robotics Limited.
 Formerly, I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
 
 Supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I received my Ph.D. degree in the MAE department at CUHK, advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"} in July 2017, and then I served as a Post-Doctoral Research Fellow in the MAE department at CUHK for half a year.
