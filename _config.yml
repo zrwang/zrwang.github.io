@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Zerui Wang
-tagline:          'Happy coding, happy exploring.'
-description:      'Start here,<br>make a difference.'
+title:            Zerui (Jerry) Wang
+tagline:          'Start here, make a difference.'
+description:      'Forging Accessibility<br>in Robotic Surgery'
 url:              http://www.wangzerui.com/
 
 author:
@@ -26,7 +26,7 @@ google_analytics:       UA-63207330-1
 emailme:                mailto:zerui.j.wang@gmail.com
 github:
   repo:                 https://github.com/zrwang/zrwang.github.io/
-version:                Jun.12.2022
+version:                Aug.2024
 orcid_username:         0000-0003-4281-5120
 researcherid_username:  R-3094-2018
 googlescholar_username: fWi5tx8AAAAJ&hl
@@ -35,8 +35,3 @@ linkedin_username:      zrwang
 github_username:        zrwang
 share_pdf:              no
 share_video:            no
-# facebook_username: zrwang.cuhk
-# google_plus_username: 115306810481973645007
-# twitter_username: wangzerui
-# instagram_username: wzr.mavericker
-# cv_chn: yes
