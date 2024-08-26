@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Zerui (Jerry) Wang
+title:            Zerui Wang
 tagline:          'Start here, make a difference.'
-description:      'Forging Accessibility<br>in Robotic Surgery'
+description:      'Forging Accessibility in Robotic Surgery'
 url:              http://www.wangzerui.com/
 
 author:
