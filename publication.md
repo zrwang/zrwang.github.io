@@ -6,7 +6,10 @@ title: Publication
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-20. Wu, J., Chen, W., Guo, D., Ma, G., **_Wang, Z._**, He, Y., Zhong, F., Lu, B., Wang, Y., Cheung, T. H., Liu, Y.-H., “Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation,” IEEE Transactions on Medical Robotics and Bionics (T-MRB), Jun. 2022.
+21. Long, Y., Lin, A., Kwok, D. H. C., Zhang, L., Yang, Z., Shi, K., Song, L., Fu, J., Lin, H., Wei, W., Chen, K., Chu, X., Hu, Y., Yip, H. C., Chiu, P. W. Y., Kazanzides, P., Taylor, R. H., Liu, Y.-H., Chen, Z., **_Wang, Z._**, Au, S. K. W., and Dou, Q., *"Surgical Embodied Intelligence for Generalized Task Autonomy in Laparoscopic Robot-Assisted Surgery,"* Science Robotics (Sci. Robot.), vol. 10, no. 104, eadt3093, Jul. 2025.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/scirobotics_2025_surgical.pdf){:target="_blank"}{% else %}[@Paper](https://www.science.org/doi/10.1126/scirobotics.adt3093){:target="_blank"}{% endif %}
+
+20. Wu, J., Chen, W., Guo, D., Ma, G., **_Wang, Z._**, He, Y., Zhong, F., Lu, B., Wang, Y., Cheung, T. H., Liu, Y.-H., "Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation," IEEE Transactions on Medical Robotics and Bionics (T-MRB), Jun. 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmrb_2022_robot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9790864/){:target="_blank"}{% endif %}
 
 19. Wang, Z., Lu, B., Gao, X., Jin, Y., **_Wang, Z._**, Cheung, T. H., Heng, P. A., Dou, Q., and Liu, Y.-H., *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MedIA), vol. 75, p. 102296, Nov. 2021.
